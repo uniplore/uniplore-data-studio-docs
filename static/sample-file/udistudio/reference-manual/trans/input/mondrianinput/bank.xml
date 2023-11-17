@@ -1,0 +1,129 @@
+<Schema name="示例数据源">
+	<Cube name="银行贷款信息" cache="true" enabled="true">
+		<Table name="银行贷款" schema="" alias="">
+		</Table>
+		<Dimension type="StandardDimension" name="贷款日期">
+			<Hierarchy name="贷款日期" hasAll="true">
+				<Level name="年份" column="贷款日期年" uniqueMembers="false">
+				</Level>
+				<Level name="月份" column="贷款日期月" uniqueMembers="false">
+				</Level>
+				<Level name="日期" column="贷款日期日" uniqueMembers="false">
+				</Level>
+			</Hierarchy>
+		</Dimension>
+		<Dimension type="StandardDimension" name="贷款业务">
+			<Hierarchy name="业务种类" hasAll="true">
+				<Level name="业务种类" column="业务种类" uniqueMembers="false">
+				</Level>
+				<Level name="产品名称" column="信贷产品名" uniqueMembers="false">
+				</Level>
+			</Hierarchy>
+		</Dimension>
+		<Dimension type="StandardDimension" name="贷款类型">
+			<Hierarchy name="贷款类型" hasAll="true">
+				<Level name="贷款类型名" column="贷款类型名" uniqueMembers="false">
+				</Level>
+			</Hierarchy>
+		</Dimension>
+		<Dimension type="StandardDimension" name="贷款投向">
+			<Hierarchy name="贷款投向" hasAll="true">
+				<Level name="投向分类" column="录入分类名" uniqueMembers="false">
+				</Level>
+				<Level name="行业类型" column="行业类型" uniqueMembers="false">
+				</Level>
+			</Hierarchy>
+		</Dimension>
+		<Dimension type="StandardDimension" name="贷款用途">
+			<Hierarchy name="贷款用途" hasAll="true">
+				<Level name="贷款用途种类" column="贷款用途种类" uniqueMembers="false">
+				</Level>
+				<Level name="贷款用途" column="贷款用途" uniqueMembers="false">
+				</Level>
+			</Hierarchy>
+		</Dimension>
+		<Dimension type="StandardDimension" name="贷款方式">
+			<Hierarchy name="贷款方式" hasAll="true">
+				<Level name="贷款方式" column="贷款方式" uniqueMembers="false">
+				</Level>
+				<Level name="担保方式" column="担保方式" uniqueMembers="false">
+				</Level>
+			</Hierarchy>
+		</Dimension>
+		<Dimension type="StandardDimension" name="客户分类">
+			<Hierarchy name="客户分类" hasAll="true">
+				<Level name="客户分类" column="客户分类" uniqueMembers="false">
+				</Level>
+			</Hierarchy>						
+		</Dimension>
+		<Dimension type="StandardDimension" name="利率">
+			<Hierarchy name="利率执行方式" hasAll="true">
+				<Level name="利率执行方式" column="利率执行方式" uniqueMembers="false">
+				</Level>
+			</Hierarchy>
+		</Dimension>
+		<Dimension type="StandardDimension" name="结息">
+			<Hierarchy name="结息周期" hasAll="true">
+				<Level name="结息周期名" column="结息周期名" uniqueMembers="false">
+				</Level>
+			</Hierarchy>
+		</Dimension>
+		<Dimension type="StandardDimension" name="客户所在地区">
+			<Hierarchy name="客户所在地区" hasAll="true">
+				<Level name="客户所在区县" column="客户分区一" uniqueMembers="false">
+				</Level>
+				<Level name="客户所在村镇" column="客户分区二" uniqueMembers="false">
+				</Level>
+			</Hierarchy>
+		</Dimension>
+		
+		<Dimension type="StandardDimension" name="客户五级分类">
+			<Hierarchy name="五级分类" hasAll="true">
+				<Level name="五级分类" column="五级分类" uniqueMembers="false">
+				</Level>
+				<Level name="五级分类初分" column="五级分类初分" uniqueMembers="false">
+				</Level>
+			</Hierarchy>
+		</Dimension>
+		<Dimension type="StandardDimension" name="客户性别">	
+			<Hierarchy name="性别" hasAll="true">
+				<Level name="性别" column="性别" uniqueMembers="false">
+				</Level>
+			</Hierarchy>
+		</Dimension>
+		<Dimension type="StandardDimension" name="客户类型">
+			<Hierarchy name="客户类型" hasAll="true">
+				<Level name="客户类型" column="客户类型" uniqueMembers="false">
+				</Level>
+			</Hierarchy>
+		</Dimension>
+		<Dimension type="StandardDimension" name="客户信用等级">
+			<Hierarchy name="信用等级" hasAll="true">
+				<Level name="信用等级" column="信用等级" uniqueMembers="false">
+				</Level>
+			</Hierarchy>
+		</Dimension>
+		<Dimension type="StandardDimension" name="客户自然人性质">
+			<Hierarchy name="自然人性质" hasAll="true">
+				<Level name="自然人性质" column="五级分类类型名" uniqueMembers="false">
+				</Level>
+			</Hierarchy>
+		</Dimension>
+		<Measure name="贷款总月数" column="月数" aggregator="sum" visible="true">
+		</Measure>
+		<Measure name="贷款笔数" column="贷款号" aggregator="count" visible="true">
+		</Measure>
+		<Measure name="总贷款金额" column="贷款金额" aggregator="sum" visible="true">
+		</Measure>
+		<Measure name="最大贷款金额" column="贷款金额" aggregator="max" visible="true">
+		</Measure>
+		<Measure name="总结欠金额" column="结欠金额" aggregator="sum" visible="true">
+		</Measure>
+		<Measure name="总欠息天数" column="欠息天数" aggregator="sum" visible="true">
+		</Measure>
+		<Measure name="总实收利息" column="实收利息" aggregator="sum" visible="true">
+		</Measure>
+		<Measure name="总应收利息和" column="应收利息和" aggregator="sum" visible="true">
+		</Measure>
+	</Cube>
+</Schema>

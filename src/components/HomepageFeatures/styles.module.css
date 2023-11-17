@@ -1,0 +1,31 @@
+.features {
+  display: flex;
+  align-items: center;
+  padding: 2rem 0;
+  width: 100%;
+  background-image: url(@site/static/img/main-wrapper-bg.svg);
+}
+
+.featureSvg {
+  height: 200px;
+  width: 200px;
+}
+
+.shadow {
+  filter: drop-shadow(10px 10px 2px rgba(0, 0, 0, 0.2));
+}
+
+.textShadow {
+	/* filter: drop-shadow(15px 10px 5px rgba(0, 0, 0, 0.2)); */
+}
+
+.normalA:hover {
+  color: var(--ifm-font-color-base);
+}
+.normalA h3{
+  color: var(--ifm-color-content);
+}
+
+.normalA p{
+  color: var(--ifm-font-color-base);
+}
