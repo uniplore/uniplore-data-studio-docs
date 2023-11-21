@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkuniplore_data_studio_dev_docs=self.webpackChunkuniplore_data_studio_dev_docs||[]).push([[6348],{5240:a=>{a.exports=JSON.parse('{"allTagsPath":"/uniplore-data-studio-docs/en/blog/tags","name":"facebook","count":1,"permalink":"/uniplore-data-studio-docs/en/blog/tags/facebook"}')}}]);
