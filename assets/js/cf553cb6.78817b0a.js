@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkuniplore_data_studio_dev_docs=self.webpackChunkuniplore_data_studio_dev_docs||[]).push([[2193],{6687:s=>{s.exports=JSON.parse('{"allTagsPath":"/uniplore-data-studio-docs/blog/tags","name":"docusaurus","count":4,"permalink":"/uniplore-data-studio-docs/blog/tags/docusaurus"}')}}]);
