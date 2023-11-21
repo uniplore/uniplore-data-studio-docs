@@ -5,9 +5,9 @@ import Translate, {translate} from '@docusaurus/Translate';
 
 const FeatureList = [
   {
-    title: '系统开发文档',
-    href: "/docs/intro",
-    Svg: require('@site/static/img/idis.svg').default,
+    title: '开发文档',
+    naviUrl: "/docs/dev-docs/intro",
+    Svg: require('@site/static/img/development.svg').default,
     description: (
       <>
         iDIS是一个以数据分析为核心的产品，包含有UDI，VA，DM和OLAP。
@@ -19,8 +19,9 @@ const FeatureList = [
     ),
   },
   {
-    title: '系统使用教程',
-    Svg: require('@site/static/img/labplore.svg').default,
+    title: '使用教程',
+    naviUrl: '/docs/tutorial-docs/intro',
+    Svg: require('@site/static/img/tutorial.svg').default,
     description: (
       <>
         Labplore是基于iDIS的教育版，功能涵盖范围与iDIS略有差异，也包含了如下功能：
@@ -33,21 +34,14 @@ const FeatureList = [
   },
 ];
 
-function Feature({Svg, href, title, description}) {
+function Feature({Svg, naviUrl, title, description}) {
   return (
     <div className={clsx('col col--6')}>
-      <a href={href} className={styles.normalA}>
+      <a href={naviUrl} className={styles.naviLink}>
         <div className={`text--center ${styles.shadow}`}>
-          <Svg className={styles.featureSvg} role="img" style={{width: '350px', height: '350px'}}/>
+          <Svg className={styles.featureSvg} role="img" />
         </div>
         <div className={`text--center padding-horiz--md ${styles.textShadow}`}>
-          {/* 数据中台多源异构的数据采集、治理、建模、分析，应用，使数据对内优化管理提高业务，对外可以数据合作价值释放，成为企业数据资产管理中枢。数据中台是一套可持续“让企业的数据用起来”的机制，一种战略选择和组织形式，是依据企业特有的业务模式和组织架构，通过有形的产品和实施方法论支撑，构建一套持续不断把数据变成资产并服务于业务的机制。数据中台建立后，会形成数据API，为企业和客户提供高效各种数据服务。 */}
-          {/* <h3>
-            <Translate id="homepage.feature.{title}">{title}</Translate>
-          </h3>
-          <p>
-            <Translate id="homepage.feature.{description}">{description}</Translate>
-          </p> */}
           <h3>
             {title}
           </h3>
