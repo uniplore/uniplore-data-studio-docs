@@ -1,0 +1,26 @@
+{
+  "unversionedId": "data-studio/data-assets/概述",
+  "id": "data-studio/data-assets/概述",
+  "title": "简介",
+  "description": "数据资产的作用",
+  "source": "@site/docs\\data-studio\\data-assets\\概述.md",
+  "sourceDirName": "data-studio/data-assets",
+  "slug": "/data-studio/data-assets/概述",
+  "permalink": "/docs/data-studio/data-assets/概述",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "title": "简介",
+    "sidebar_position": 0
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "简介",
+    "permalink": "/docs/data-studio/intro"
+  },
+  "next": {
+    "title": "名称解释",
+    "permalink": "/docs/data-studio/data-assets/glossary"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "unversionedId": "ai-studio/widgets/text-mining/词云",
+  "id": "ai-studio/widgets/text-mining/词云",
+  "title": "词云",
+  "description": "组件介绍",
+  "source": "@site/docs\\ai-studio\\widgets\\text-mining\\词云.md",
+  "sourceDirName": "ai-studio/widgets/text-mining",
+  "slug": "/ai-studio/widgets/text-mining/词云",
+  "permalink": "/docs/ai-studio/widgets/text-mining/词云",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "语料库查看器",
+    "permalink": "/docs/ai-studio/widgets/text-mining/语料库查看器"
+  },
+  "next": {
+    "title": "语汇索引",
+    "permalink": "/docs/ai-studio/widgets/text-mining/语汇索引"
+  }
+}

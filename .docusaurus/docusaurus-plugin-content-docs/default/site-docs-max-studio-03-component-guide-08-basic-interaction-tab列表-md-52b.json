@@ -1,0 +1,22 @@
+{
+  "unversionedId": "max-studio/03component-guide/basic-interaction/Tab列表",
+  "id": "max-studio/03component-guide/basic-interaction/Tab列表",
+  "title": "Tab列表",
+  "description": "Tab列表是基础交互组件的一种，支持自定义Tab的颜色、数量、类型以及标签样式等，可以通过交互配置，与其他组件配合使用，在可视化应用中展示所选择Tab的标签内容。本文介绍Tab列表各配置项的含义。",
+  "source": "@site/docs\\max-studio\\03component-guide\\08-basic-interaction\\Tab列表.md",
+  "sourceDirName": "max-studio/03component-guide/08-basic-interaction",
+  "slug": "/max-studio/03component-guide/basic-interaction/Tab列表",
+  "permalink": "/docs/max-studio/03component-guide/basic-interaction/Tab列表",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "轮播饼图",
+    "permalink": "/docs/max-studio/03component-guide/pie/轮播饼图"
+  },
+  "next": {
+    "title": "iframe",
+    "permalink": "/docs/max-studio/03component-guide/basic-interaction/iframe"
+  }
+}

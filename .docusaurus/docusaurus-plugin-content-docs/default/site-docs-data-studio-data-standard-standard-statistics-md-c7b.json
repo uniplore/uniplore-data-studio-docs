@@ -1,0 +1,26 @@
+{
+  "unversionedId": "data-studio/data-standard/standard-statistics",
+  "id": "data-studio/data-standard/standard-statistics",
+  "title": "标准统计",
+  "description": "概述",
+  "source": "@site/docs/data-studio/data-standard/standard-statistics.md",
+  "sourceDirName": "data-studio/data-standard",
+  "slug": "/data-studio/data-standard/standard-statistics",
+  "permalink": "/docs/data-studio/data-standard/standard-statistics",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "标准统计",
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "概述",
+    "permalink": "/docs/data-studio/data-standard/intro"
+  },
+  "next": {
+    "title": "标准制定",
+    "permalink": "/docs/data-studio/data-standard/standards-specified"
+  }
+}

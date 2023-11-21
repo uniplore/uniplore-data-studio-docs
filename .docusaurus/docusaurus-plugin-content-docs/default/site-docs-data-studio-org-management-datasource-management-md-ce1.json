@@ -1,0 +1,26 @@
+{
+  "unversionedId": "data-studio/org-management/datasource-management",
+  "id": "data-studio/org-management/datasource-management",
+  "title": "数据源管理",
+  "description": "概述",
+  "source": "@site/docs/data-studio/org-management/datasource-management.md",
+  "sourceDirName": "data-studio/org-management",
+  "slug": "/data-studio/org-management/datasource-management",
+  "permalink": "/docs/data-studio/org-management/datasource-management",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "数据源管理",
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "成员管理",
+    "permalink": "/docs/data-studio/org-management/member-management"
+  },
+  "next": {
+    "title": "ChangeLog",
+    "permalink": "/docs/data-studio/org-management/ChangeLog"
+  }
+}

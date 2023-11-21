@@ -1,0 +1,25 @@
+{
+  "unversionedId": "data-studio/data-vaild/数据源支持",
+  "id": "data-studio/data-vaild/数据源支持",
+  "title": "数据源支持",
+  "description": "数据源类型",
+  "source": "@site/docs\\data-studio\\data-vaild\\数据源支持.md",
+  "sourceDirName": "data-studio/data-vaild",
+  "slug": "/data-studio/data-vaild/数据源支持",
+  "permalink": "/docs/data-studio/data-vaild/数据源支持",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "名词解释",
+    "permalink": "/docs/data-studio/data-vaild/名词解释"
+  },
+  "next": {
+    "title": "规则配置",
+    "permalink": "/docs/data-studio/data-vaild/规则配置"
+  }
+}

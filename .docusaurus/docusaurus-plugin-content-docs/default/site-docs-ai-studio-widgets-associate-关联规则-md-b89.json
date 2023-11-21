@@ -1,0 +1,25 @@
+{
+  "unversionedId": "ai-studio/widgets/associate/关联规则",
+  "id": "ai-studio/widgets/associate/关联规则",
+  "title": "关联规则",
+  "description": "组件介绍",
+  "source": "@site/docs\\ai-studio\\widgets\\associate\\关联规则.md",
+  "sourceDirName": "ai-studio/widgets/associate",
+  "slug": "/ai-studio/widgets/associate/关联规则",
+  "permalink": "/docs/ai-studio/widgets/associate/关联规则",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "sidebar_position": 0
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "快速入门",
+    "permalink": "/docs/ai-studio/快速入门"
+  },
+  "next": {
+    "title": "频繁项集",
+    "permalink": "/docs/ai-studio/widgets/associate/频繁项集"
+  }
+}

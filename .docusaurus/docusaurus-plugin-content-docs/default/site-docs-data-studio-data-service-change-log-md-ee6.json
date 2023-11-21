@@ -1,0 +1,25 @@
+{
+  "unversionedId": "data-studio/data-service/changeLog",
+  "id": "data-studio/data-service/changeLog",
+  "title": "changeLog",
+  "description": "V0.1.0",
+  "source": "@site/docs/data-studio/data-service/changeLog.md",
+  "sourceDirName": "data-studio/data-service",
+  "slug": "/data-studio/data-service/changeLog",
+  "permalink": "/docs/data-studio/data-service/changeLog",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 14,
+  "frontMatter": {
+    "sidebar_position": 14
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "服务调用",
+    "permalink": "/docs/data-studio/data-service/api-invoke"
+  },
+  "next": {
+    "title": "项目管理",
+    "permalink": "/docs/data-studio/org-management/project-management"
+  }
+}

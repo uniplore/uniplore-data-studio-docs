@@ -1,0 +1,25 @@
+{
+  "unversionedId": "ai-studio/widgets/time-series/转换时间序列",
+  "id": "ai-studio/widgets/time-series/转换时间序列",
+  "title": "转换时间序列",
+  "description": "组件介绍",
+  "source": "@site/docs\\ai-studio\\widgets\\time-series\\转换时间序列.md",
+  "sourceDirName": "ai-studio/widgets/time-series",
+  "slug": "/ai-studio/widgets/time-series/转换时间序列",
+  "permalink": "/docs/ai-studio/widgets/time-series/转换时间序列",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "sidebar_position": 0
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "K-Modes",
+    "permalink": "/docs/ai-studio/widgets/clustering/K-Modes"
+  },
+  "next": {
+    "title": "插值处理",
+    "permalink": "/docs/ai-studio/widgets/time-series/插值处理"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "unversionedId": "ai-studio/快速入门",
+  "id": "ai-studio/快速入门",
+  "title": "快速入门",
+  "description": "入门概述",
+  "source": "@site/docs\\ai-studio\\快速入门.md",
+  "sourceDirName": "ai-studio",
+  "slug": "/ai-studio/快速入门",
+  "permalink": "/docs/ai-studio/快速入门",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "名词解释",
+    "permalink": "/docs/ai-studio/名词解释"
+  },
+  "next": {
+    "title": "关联规则",
+    "permalink": "/docs/ai-studio/widgets/associate/关联规则"
+  }
+}

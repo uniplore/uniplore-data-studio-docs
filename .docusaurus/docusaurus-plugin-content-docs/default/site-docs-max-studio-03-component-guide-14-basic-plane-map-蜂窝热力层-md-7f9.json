@@ -1,0 +1,22 @@
+{
+  "unversionedId": "max-studio/03component-guide/basic-plane-map/蜂窝热力层",
+  "id": "max-studio/03component-guide/basic-plane-map/蜂窝热力层",
+  "title": "蜂窝热力层",
+  "description": "蜂窝热力层是基础平面地图的子组件，支持独立的样式和数据配置，包括网蜂窝大小、颜色、边线样式以及经纬度等，能够以蜂窝点的形式表现地理位置上的点的分布密度。本文介绍蜂窝热力层各配置项的含义。",
+  "source": "@site/docs\\max-studio\\03component-guide\\14-basic-plane-map\\蜂窝热力层.md",
+  "sourceDirName": "max-studio/03component-guide/14-basic-plane-map",
+  "slug": "/max-studio/03component-guide/basic-plane-map/蜂窝热力层",
+  "permalink": "/docs/max-studio/03component-guide/basic-plane-map/蜂窝热力层",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "网格热力层",
+    "permalink": "/docs/max-studio/03component-guide/basic-plane-map/网格热力层"
+  },
+  "next": {
+    "title": "飞线层",
+    "permalink": "/docs/max-studio/03component-guide/basic-plane-map/飞线层"
+  }
+}

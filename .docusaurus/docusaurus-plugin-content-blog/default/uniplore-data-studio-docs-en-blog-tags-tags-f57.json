@@ -1,0 +1,26 @@
+{
+  "facebook": {
+    "allTagsPath": "/uniplore-data-studio-docs/en/blog/tags",
+    "name": "facebook",
+    "count": 1,
+    "permalink": "/uniplore-data-studio-docs/en/blog/tags/facebook"
+  },
+  "hello": {
+    "allTagsPath": "/uniplore-data-studio-docs/en/blog/tags",
+    "name": "hello",
+    "count": 2,
+    "permalink": "/uniplore-data-studio-docs/en/blog/tags/hello"
+  },
+  "docusaurus": {
+    "allTagsPath": "/uniplore-data-studio-docs/en/blog/tags",
+    "name": "docusaurus",
+    "count": 4,
+    "permalink": "/uniplore-data-studio-docs/en/blog/tags/docusaurus"
+  },
+  "hola": {
+    "allTagsPath": "/uniplore-data-studio-docs/en/blog/tags",
+    "name": "hola",
+    "count": 1,
+    "permalink": "/uniplore-data-studio-docs/en/blog/tags/hola"
+  }
+}

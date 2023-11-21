@@ -1,0 +1,25 @@
+{
+  "unversionedId": "ai-studio/widgets/model/支持向量机",
+  "id": "ai-studio/widgets/model/支持向量机",
+  "title": "支持向量机",
+  "description": "组件介绍",
+  "source": "@site/docs\\ai-studio\\widgets\\model\\支持向量机.md",
+  "sourceDirName": "ai-studio/widgets/model",
+  "slug": "/ai-studio/widgets/model/支持向量机",
+  "permalink": "/docs/ai-studio/widgets/model/支持向量机",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "LightGBM",
+    "permalink": "/docs/ai-studio/widgets/model/LightGBM"
+  },
+  "next": {
+    "title": "线性回归",
+    "permalink": "/docs/ai-studio/widgets/model/线性回归"
+  }
+}

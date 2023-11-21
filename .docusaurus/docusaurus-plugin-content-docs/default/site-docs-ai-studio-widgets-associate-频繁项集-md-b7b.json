@@ -1,0 +1,25 @@
+{
+  "unversionedId": "ai-studio/widgets/associate/频繁项集",
+  "id": "ai-studio/widgets/associate/频繁项集",
+  "title": "频繁项集",
+  "description": "组件介绍",
+  "source": "@site/docs\\ai-studio\\widgets\\associate\\频繁项集.md",
+  "sourceDirName": "ai-studio/widgets/associate",
+  "slug": "/ai-studio/widgets/associate/频繁项集",
+  "permalink": "/docs/ai-studio/widgets/associate/频繁项集",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "关联规则",
+    "permalink": "/docs/ai-studio/widgets/associate/关联规则"
+  },
+  "next": {
+    "title": "加载文件",
+    "permalink": "/docs/ai-studio/widgets/io/加载文件"
+  }
+}

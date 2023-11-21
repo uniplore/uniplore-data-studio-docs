@@ -1,0 +1,26 @@
+{
+  "unversionedId": "examples/VA Studio 应用案例/new-dataset",
+  "id": "examples/VA Studio 应用案例/new-dataset",
+  "title": "创建数据集",
+  "description": "步骤",
+  "source": "@site/docs\\examples\\VA Studio 应用案例\\new-dataset.md",
+  "sourceDirName": "examples/VA Studio 应用案例",
+  "slug": "/examples/VA Studio 应用案例/new-dataset",
+  "permalink": "/docs/examples/VA Studio 应用案例/new-dataset",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "创建数据集",
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "文件上传",
+    "permalink": "/docs/examples/VA Studio 应用案例/file-upload"
+  },
+  "next": {
+    "title": "制作工作表",
+    "permalink": "/docs/examples/VA Studio 应用案例/new-worksheet"
+  }
+}

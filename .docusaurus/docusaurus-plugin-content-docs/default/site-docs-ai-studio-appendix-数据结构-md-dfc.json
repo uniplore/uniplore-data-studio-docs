@@ -1,0 +1,22 @@
+{
+  "unversionedId": "ai-studio/appendix/数据结构",
+  "id": "ai-studio/appendix/数据结构",
+  "title": "数据结构",
+  "description": "数据结构说明",
+  "source": "@site/docs\\ai-studio\\appendix\\数据结构.md",
+  "sourceDirName": "ai-studio/appendix",
+  "slug": "/ai-studio/appendix/数据结构",
+  "permalink": "/docs/ai-studio/appendix/数据结构",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "目标检测",
+    "permalink": "/docs/ai-studio/widgets/deep-learning/目标检测"
+  },
+  "next": {
+    "title": "概述",
+    "permalink": "/docs/udi-studio/summary"
+  }
+}

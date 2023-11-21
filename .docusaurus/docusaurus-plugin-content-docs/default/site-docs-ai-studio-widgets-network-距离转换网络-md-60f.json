@@ -1,0 +1,25 @@
+{
+  "unversionedId": "ai-studio/widgets/network/距离转换网络",
+  "id": "ai-studio/widgets/network/距离转换网络",
+  "title": "距离转换网络",
+  "description": "组件介绍",
+  "source": "@site/docs\\ai-studio\\widgets\\network\\距离转换网络.md",
+  "sourceDirName": "ai-studio/widgets/network",
+  "slug": "/ai-studio/widgets/network/距离转换网络",
+  "permalink": "/docs/ai-studio/widgets/network/距离转换网络",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "sidebar_position": 0
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "文本增强",
+    "permalink": "/docs/ai-studio/widgets/text-mining/文本增强"
+  },
+  "next": {
+    "title": "网络查看器",
+    "permalink": "/docs/ai-studio/widgets/network/网络查看器"
+  }
+}

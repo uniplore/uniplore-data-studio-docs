@@ -1,0 +1,22 @@
+{
+  "unversionedId": "max-studio/03component-guide/basic-interaction/iframe",
+  "id": "max-studio/03component-guide/basic-interaction/iframe",
+  "title": "iframe",
+  "description": "iframe是基础交互组件的一种，支持自定义iframe链接，支持自定义iframe的显隐，适用于将网页嵌入大屏中进行显示。本文介绍iframe各配置项的含义。",
+  "source": "@site/docs/max-studio/03component-guide/08-basic-interaction/iframe.md",
+  "sourceDirName": "max-studio/03component-guide/08-basic-interaction",
+  "slug": "/max-studio/03component-guide/basic-interaction/iframe",
+  "permalink": "/docs/max-studio/03component-guide/basic-interaction/iframe",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Tab列表",
+    "permalink": "/docs/max-studio/03component-guide/basic-interaction/Tab列表"
+  },
+  "next": {
+    "title": "全屏切换",
+    "permalink": "/docs/max-studio/03component-guide/basic-interaction/全屏切换"
+  }
+}

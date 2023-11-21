@@ -1,0 +1,25 @@
+{
+  "unversionedId": "ai-studio/widgets/visualize/查看数据",
+  "id": "ai-studio/widgets/visualize/查看数据",
+  "title": "查看数据",
+  "description": "组件介绍",
+  "source": "@site/docs\\ai-studio\\widgets\\visualize\\查看数据.md",
+  "sourceDirName": "ai-studio/widgets/visualize",
+  "slug": "/ai-studio/widgets/visualize/查看数据",
+  "permalink": "/docs/ai-studio/widgets/visualize/查看数据",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "sidebar_position": 0
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "季节性调整",
+    "permalink": "/docs/ai-studio/widgets/time-series/季节性调整"
+  },
+  "next": {
+    "title": "数据信息",
+    "permalink": "/docs/ai-studio/widgets/visualize/数据信息"
+  }
+}

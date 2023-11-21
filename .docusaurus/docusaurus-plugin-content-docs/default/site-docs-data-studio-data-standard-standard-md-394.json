@@ -1,0 +1,26 @@
+{
+  "unversionedId": "data-studio/data-standard/standard-",
+  "id": "data-studio/data-standard/standard-",
+  "title": "标准制定",
+  "description": "标准维护",
+  "source": "@site/docs/data-studio/data-standard/standard-.md",
+  "sourceDirName": "data-studio/data-standard",
+  "slug": "/data-studio/data-standard/standard-",
+  "permalink": "/docs/data-studio/data-standard/standard-",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "标准制定",
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "标准统计",
+    "permalink": "/docs/data-studio/data-standard/标准统计"
+  },
+  "next": {
+    "title": "代码集管理",
+    "permalink": "/docs/data-studio/data-standard/code-set-management"
+  }
+}

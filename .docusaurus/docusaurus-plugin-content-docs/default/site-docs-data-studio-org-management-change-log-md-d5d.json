@@ -1,0 +1,22 @@
+{
+  "unversionedId": "data-studio/org-management/ChangeLog",
+  "id": "data-studio/org-management/ChangeLog",
+  "title": "ChangeLog",
+  "description": "V0.1.0",
+  "source": "@site/docs/data-studio/org-management/ChangeLog.md",
+  "sourceDirName": "data-studio/org-management",
+  "slug": "/data-studio/org-management/ChangeLog",
+  "permalink": "/docs/data-studio/org-management/ChangeLog",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "数据源管理",
+    "permalink": "/docs/data-studio/org-management/datasource-management"
+  },
+  "next": {
+    "title": "概述",
+    "permalink": "/docs/data-studio/data-standard/intro"
+  }
+}

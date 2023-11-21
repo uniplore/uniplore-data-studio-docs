@@ -1,0 +1,25 @@
+{
+  "unversionedId": "ai-studio/widgets/time-series/季节性调整",
+  "id": "ai-studio/widgets/time-series/季节性调整",
+  "title": "季节性调整",
+  "description": "组件介绍",
+  "source": "@site/docs\\ai-studio\\widgets\\time-series\\季节性调整.md",
+  "sourceDirName": "ai-studio/widgets/time-series",
+  "slug": "/ai-studio/widgets/time-series/季节性调整",
+  "permalink": "/docs/ai-studio/widgets/time-series/季节性调整",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "sidebar_position": 8
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "差分",
+    "permalink": "/docs/ai-studio/widgets/time-series/差分"
+  },
+  "next": {
+    "title": "查看数据",
+    "permalink": "/docs/ai-studio/widgets/visualize/查看数据"
+  }
+}

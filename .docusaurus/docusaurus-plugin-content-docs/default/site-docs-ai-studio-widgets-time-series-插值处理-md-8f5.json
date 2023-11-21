@@ -1,0 +1,25 @@
+{
+  "unversionedId": "ai-studio/widgets/time-series/插值处理",
+  "id": "ai-studio/widgets/time-series/插值处理",
+  "title": "插值处理",
+  "description": "组件介绍",
+  "source": "@site/docs\\ai-studio\\widgets\\time-series\\插值处理.md",
+  "sourceDirName": "ai-studio/widgets/time-series",
+  "slug": "/ai-studio/widgets/time-series/插值处理",
+  "permalink": "/docs/ai-studio/widgets/time-series/插值处理",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "转换时间序列",
+    "permalink": "/docs/ai-studio/widgets/time-series/转换时间序列"
+  },
+  "next": {
+    "title": "格兰杰因果关系",
+    "permalink": "/docs/ai-studio/widgets/time-series/格兰杰因果关系"
+  }
+}

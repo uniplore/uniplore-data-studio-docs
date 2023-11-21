@@ -1,0 +1,26 @@
+{
+  "unversionedId": "data-studio/data-quality/概述intro",
+  "id": "data-studio/data-quality/概述intro",
+  "title": "概述",
+  "description": "产品介绍",
+  "source": "@site/docs\\data-studio\\data-quality\\概述intro.md",
+  "sourceDirName": "data-studio/data-quality",
+  "slug": "/data-studio/data-quality/概述intro",
+  "permalink": "/docs/data-studio/data-quality/概述intro",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "title": "概述",
+    "sidebar_position": 0
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "changeLog",
+    "permalink": "/docs/data-studio/data-assets/changeLog"
+  },
+  "next": {
+    "title": "名称解释",
+    "permalink": "/docs/data-studio/data-quality/glossary"
+  }
+}

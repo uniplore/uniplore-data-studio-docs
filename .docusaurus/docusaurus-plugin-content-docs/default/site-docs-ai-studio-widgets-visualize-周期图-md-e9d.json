@@ -1,0 +1,25 @@
+{
+  "unversionedId": "ai-studio/widgets/visualize/周期图",
+  "id": "ai-studio/widgets/visualize/周期图",
+  "title": "周期图",
+  "description": "组件介绍",
+  "source": "@site/docs\\ai-studio\\widgets\\visualize\\周期图.md",
+  "sourceDirName": "ai-studio/widgets/visualize",
+  "slug": "/ai-studio/widgets/visualize/周期图",
+  "permalink": "/docs/ai-studio/widgets/visualize/周期图",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 9,
+  "frontMatter": {
+    "sidebar_position": 9
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "筛图",
+    "permalink": "/docs/ai-studio/widgets/visualize/筛图"
+  },
+  "next": {
+    "title": "热力图",
+    "permalink": "/docs/ai-studio/widgets/visualize/热力图"
+  }
+}

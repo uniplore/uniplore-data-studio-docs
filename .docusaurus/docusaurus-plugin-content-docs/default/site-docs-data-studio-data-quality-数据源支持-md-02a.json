@@ -1,0 +1,26 @@
+{
+  "unversionedId": "data-studio/data-quality/数据源支持",
+  "id": "data-studio/data-quality/数据源支持",
+  "title": "数据源支持",
+  "description": "数据源类型",
+  "source": "@site/docs\\data-studio\\data-quality\\数据源支持.md",
+  "sourceDirName": "data-studio/data-quality",
+  "slug": "/data-studio/data-quality/数据源支持",
+  "permalink": "/docs/data-studio/data-quality/数据源支持",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "数据源支持",
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "名称解释",
+    "permalink": "/docs/data-studio/data-quality/glossary"
+  },
+  "next": {
+    "title": "规则配置",
+    "permalink": "/docs/data-studio/data-quality/规则配置"
+  }
+}

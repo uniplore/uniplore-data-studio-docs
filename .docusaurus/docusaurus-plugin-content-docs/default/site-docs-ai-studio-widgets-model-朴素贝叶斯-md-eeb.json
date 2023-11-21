@@ -1,0 +1,25 @@
+{
+  "unversionedId": "ai-studio/widgets/model/朴素贝叶斯",
+  "id": "ai-studio/widgets/model/朴素贝叶斯",
+  "title": "朴素贝叶斯",
+  "description": "组件介绍",
+  "source": "@site/docs\\ai-studio\\widgets\\model\\朴素贝叶斯.md",
+  "sourceDirName": "ai-studio/widgets/model",
+  "slug": "/ai-studio/widgets/model/朴素贝叶斯",
+  "permalink": "/docs/ai-studio/widgets/model/朴素贝叶斯",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 9,
+  "frontMatter": {
+    "sidebar_position": 9
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "逻辑回归",
+    "permalink": "/docs/ai-studio/widgets/model/逻辑回归"
+  },
+  "next": {
+    "title": "自适应提升算法",
+    "permalink": "/docs/ai-studio/widgets/model/自适应提升算法"
+  }
+}

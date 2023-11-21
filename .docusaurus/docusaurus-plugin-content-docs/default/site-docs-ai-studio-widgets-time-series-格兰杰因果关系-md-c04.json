@@ -1,0 +1,25 @@
+{
+  "unversionedId": "ai-studio/widgets/time-series/格兰杰因果关系",
+  "id": "ai-studio/widgets/time-series/格兰杰因果关系",
+  "title": "格兰杰因果关系",
+  "description": "组件介绍",
+  "source": "@site/docs\\ai-studio\\widgets\\time-series\\格兰杰因果关系.md",
+  "sourceDirName": "ai-studio/widgets/time-series",
+  "slug": "/ai-studio/widgets/time-series/格兰杰因果关系",
+  "permalink": "/docs/ai-studio/widgets/time-series/格兰杰因果关系",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "插值处理",
+    "permalink": "/docs/ai-studio/widgets/time-series/插值处理"
+  },
+  "next": {
+    "title": "ARIMA模型",
+    "permalink": "/docs/ai-studio/widgets/time-series/ARIMA模型"
+  }
+}

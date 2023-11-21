@@ -1,0 +1,25 @@
+{
+  "unversionedId": "ai-studio/widgets/feature-engineering/新建分类",
+  "id": "ai-studio/widgets/feature-engineering/新建分类",
+  "title": "新建分类",
+  "description": "组件介绍",
+  "source": "@site/docs\\ai-studio\\widgets\\feature-engineering\\新建分类.md",
+  "sourceDirName": "ai-studio/widgets/feature-engineering",
+  "slug": "/ai-studio/widgets/feature-engineering/新建分类",
+  "permalink": "/docs/ai-studio/widgets/feature-engineering/新建分类",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "独热编码",
+    "permalink": "/docs/ai-studio/widgets/feature-engineering/独热编码"
+  },
+  "next": {
+    "title": "特征构建",
+    "permalink": "/docs/ai-studio/widgets/feature-engineering/特征构建"
+  }
+}

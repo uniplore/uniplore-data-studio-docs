@@ -1,0 +1,25 @@
+{
+  "unversionedId": "ai-studio/widgets/io/加载网络文件",
+  "id": "ai-studio/widgets/io/加载网络文件",
+  "title": "加载网络文件",
+  "description": "组件介绍",
+  "source": "@site/docs\\ai-studio\\widgets\\io\\加载网络文件.md",
+  "sourceDirName": "ai-studio/widgets/io",
+  "slug": "/ai-studio/widgets/io/加载网络文件",
+  "permalink": "/docs/ai-studio/widgets/io/加载网络文件",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "加载距离文件",
+    "permalink": "/docs/ai-studio/widgets/io/加载距离文件"
+  },
+  "next": {
+    "title": "网络生成器",
+    "permalink": "/docs/ai-studio/widgets/io/网络生成器"
+  }
+}

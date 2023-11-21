@@ -1,0 +1,22 @@
+{
+  "unversionedId": "max-studio/03component-guide/material/箭头标绘",
+  "id": "max-studio/03component-guide/material/箭头标绘",
+  "title": "箭头标绘",
+  "description": "箭头标绘是素材组件的一种，支持为可视化应用或可视化应用的某个模块添加自定义样式的箭头元素，能够使可视化应用展示更加美观。本文介绍箭头标绘各配置项的含义。",
+  "source": "@site/docs\\max-studio\\03component-guide\\13-material\\箭头标绘.md",
+  "sourceDirName": "max-studio/03component-guide/13-material",
+  "slug": "/max-studio/03component-guide/material/箭头标绘",
+  "permalink": "/docs/max-studio/03component-guide/material/箭头标绘",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "键值表格",
+    "permalink": "/docs/max-studio/03component-guide/text/键值表格"
+  },
+  "next": {
+    "title": "自定义背景块",
+    "permalink": "/docs/max-studio/03component-guide/material/自定义背景块"
+  }
+}

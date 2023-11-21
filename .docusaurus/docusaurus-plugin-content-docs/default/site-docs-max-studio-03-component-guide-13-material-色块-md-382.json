@@ -1,0 +1,22 @@
+{
+  "unversionedId": "max-studio/03component-guide/material/色块",
+  "id": "max-studio/03component-guide/material/色块",
+  "title": "色块",
+  "description": "色块是素材组件的一种，支持背景色修改和过滤效果。本文介绍色块各配置项的含义。",
+  "source": "@site/docs\\max-studio\\03component-guide\\13-material\\色块.md",
+  "sourceDirName": "max-studio/03component-guide/13-material",
+  "slug": "/max-studio/03component-guide/material/色块",
+  "permalink": "/docs/max-studio/03component-guide/material/色块",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "自定义背景块",
+    "permalink": "/docs/max-studio/03component-guide/material/自定义背景块"
+  },
+  "next": {
+    "title": "装饰",
+    "permalink": "/docs/max-studio/03component-guide/material/装饰"
+  }
+}

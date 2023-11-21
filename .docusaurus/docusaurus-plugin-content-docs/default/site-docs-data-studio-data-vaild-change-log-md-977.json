@@ -1,0 +1,22 @@
+{
+  "unversionedId": "data-studio/data-vaild/changeLog",
+  "id": "data-studio/data-vaild/changeLog",
+  "title": "changeLog",
+  "description": "V0.1.0",
+  "source": "@site/docs/data-studio/data-vaild/changeLog.md",
+  "sourceDirName": "data-studio/data-vaild",
+  "slug": "/data-studio/data-vaild/changeLog",
+  "permalink": "/docs/data-studio/data-vaild/changeLog",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "任务管理",
+    "permalink": "/docs/data-studio/data-vaild/任务管理"
+  },
+  "next": {
+    "title": "概述",
+    "permalink": "/docs/data-studio/data-service/intro"
+  }
+}

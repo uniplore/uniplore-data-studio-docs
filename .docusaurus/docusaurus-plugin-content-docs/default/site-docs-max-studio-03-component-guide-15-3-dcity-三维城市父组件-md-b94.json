@@ -1,0 +1,26 @@
+{
+  "unversionedId": "max-studio/03component-guide/15-3dcity/三维城市父组件",
+  "id": "max-studio/03component-guide/15-3dcity/三维城市父组件",
+  "title": "三维城市父组件",
+  "description": "三维城市父组件",
+  "source": "@site/docs\\max-studio\\03component-guide\\15-3dcity\\三维城市父组件.md",
+  "sourceDirName": "max-studio/03component-guide/15-3dcity",
+  "slug": "/max-studio/03component-guide/15-3dcity/三维城市父组件",
+  "permalink": "/docs/max-studio/03component-guide/15-3dcity/三维城市父组件",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "sidebar_position": 10,
+    "title": "三维城市父组件"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "视频融合",
+    "permalink": "/docs/max-studio/03component-guide/15-3dcity/视频融合"
+  },
+  "next": {
+    "title": "图标点",
+    "permalink": "/docs/max-studio/03component-guide/15-3dcity/图标点"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "unversionedId": "ai-studio/widgets/visualize/多项式回归",
+  "id": "ai-studio/widgets/visualize/多项式回归",
+  "title": "多项式回归",
+  "description": "组件介绍",
+  "source": "@site/docs\\ai-studio\\widgets\\visualize\\多项式回归.md",
+  "sourceDirName": "ai-studio/widgets/visualize",
+  "slug": "/ai-studio/widgets/visualize/多项式回归",
+  "permalink": "/docs/ai-studio/widgets/visualize/多项式回归",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 17,
+  "frontMatter": {
+    "sidebar_position": 17
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "CN2规则查看器",
+    "permalink": "/docs/ai-studio/widgets/visualize/CN2规则查看器"
+  },
+  "next": {
+    "title": "文本预处理",
+    "permalink": "/docs/ai-studio/widgets/text-mining/文本预处理"
+  }
+}

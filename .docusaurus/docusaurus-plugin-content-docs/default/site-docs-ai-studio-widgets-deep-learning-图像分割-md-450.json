@@ -1,0 +1,25 @@
+{
+  "unversionedId": "ai-studio/widgets/deep-learning/图像分割",
+  "id": "ai-studio/widgets/deep-learning/图像分割",
+  "title": "图像分割",
+  "description": "组件介绍",
+  "source": "@site/docs\\ai-studio\\widgets\\deep-learning\\图像分割.md",
+  "sourceDirName": "ai-studio/widgets/deep-learning",
+  "slug": "/ai-studio/widgets/deep-learning/图像分割",
+  "permalink": "/docs/ai-studio/widgets/deep-learning/图像分割",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "sidebar_position": 0
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "图像",
+    "permalink": "/docs/ai-studio/widgets/deep-learning/图像"
+  },
+  "next": {
+    "title": "图像分类",
+    "permalink": "/docs/ai-studio/widgets/deep-learning/图像分类"
+  }
+}

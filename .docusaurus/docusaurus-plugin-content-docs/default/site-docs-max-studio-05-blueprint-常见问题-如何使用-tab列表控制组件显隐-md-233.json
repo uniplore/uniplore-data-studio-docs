@@ -1,0 +1,22 @@
+{
+  "unversionedId": "max-studio/blueprint/常见问题/如何使用Tab列表控制组件显隐",
+  "id": "max-studio/blueprint/常见问题/如何使用Tab列表控制组件显隐",
+  "title": "如何使用Tab列表控制组件显隐",
+  "description": "本文档以Tab列表控制区域图和基础柱图的显隐为例，为您介绍使用 Uniplore 蓝图编辑器功能控制组件显隐的方法。",
+  "source": "@site/docs\\max-studio\\05-blueprint\\常见问题\\如何使用Tab列表控制组件显隐.md",
+  "sourceDirName": "max-studio/05-blueprint/常见问题",
+  "slug": "/max-studio/blueprint/常见问题/如何使用Tab列表控制组件显隐",
+  "permalink": "/docs/max-studio/blueprint/常见问题/如何使用Tab列表控制组件显隐",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "调试预览指南",
+    "permalink": "/docs/max-studio/blueprint/调试预览指南"
+  },
+  "next": {
+    "title": "如何使用时间器触发数据定时更新",
+    "permalink": "/docs/max-studio/blueprint/常见问题/如何使用时间器触发数据定时更新"
+  }
+}

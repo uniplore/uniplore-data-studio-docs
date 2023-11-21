@@ -1,0 +1,22 @@
+{
+  "unversionedId": "max-studio/03component-guide/basic-interaction/全屏切换",
+  "id": "max-studio/03component-guide/basic-interaction/全屏切换",
+  "title": "全屏切换",
+  "description": "全屏切换是基础交互组件的一种，支持切换图标和背景样式配置，支持自定义背景的显隐，能够灵活地在全屏展示和小屏展示中进行切换。本文介绍全屏切换各配置项的含义。",
+  "source": "@site/docs\\max-studio\\03component-guide\\08-basic-interaction\\全屏切换.md",
+  "sourceDirName": "max-studio/03component-guide/08-basic-interaction",
+  "slug": "/max-studio/03component-guide/basic-interaction/全屏切换",
+  "permalink": "/docs/max-studio/03component-guide/basic-interaction/全屏切换",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "iframe",
+    "permalink": "/docs/max-studio/03component-guide/basic-interaction/iframe"
+  },
+  "next": {
+    "title": "地理搜索框",
+    "permalink": "/docs/max-studio/03component-guide/basic-interaction/地理搜索框"
+  }
+}

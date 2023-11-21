@@ -1,0 +1,25 @@
+{
+  "unversionedId": "max-studio/datasource-management/add-datasource/添加静态JSON数据",
+  "id": "max-studio/datasource-management/add-datasource/添加静态JSON数据",
+  "title": "添加静态JSON数据",
+  "description": "本文档介绍在数据大屏中添加静态JSON的方法。",
+  "source": "@site/docs\\max-studio\\04-datasource-management\\01-add-datasource\\添加静态JSON数据.md",
+  "sourceDirName": "max-studio/04-datasource-management/01-add-datasource",
+  "slug": "/max-studio/datasource-management/add-datasource/添加静态JSON数据",
+  "permalink": "/docs/max-studio/datasource-management/add-datasource/添加静态JSON数据",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "添加数据模型数据",
+    "permalink": "/docs/max-studio/datasource-management/add-datasource/添加数据模型数据"
+  },
+  "next": {
+    "title": "添加数据源概述",
+    "permalink": "/docs/max-studio/datasource-management/add-datasource/添加数据源概述"
+  }
+}

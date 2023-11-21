@@ -1,0 +1,25 @@
+{
+  "unversionedId": "ai-studio/widgets/feature-engineering/编辑属性类型",
+  "id": "ai-studio/widgets/feature-engineering/编辑属性类型",
+  "title": "编辑属性类型",
+  "description": "组件介绍",
+  "source": "@site/docs\\ai-studio\\widgets\\feature-engineering\\编辑属性类型.md",
+  "sourceDirName": "ai-studio/widgets/feature-engineering",
+  "slug": "/ai-studio/widgets/feature-engineering/编辑属性类型",
+  "permalink": "/docs/ai-studio/widgets/feature-engineering/编辑属性类型",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 9,
+  "frontMatter": {
+    "sidebar_position": 9
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "自动特征工程",
+    "permalink": "/docs/ai-studio/widgets/feature-engineering/自动特征工程"
+  },
+  "next": {
+    "title": "分组",
+    "permalink": "/docs/ai-studio/widgets/feature-engineering/分组"
+  }
+}

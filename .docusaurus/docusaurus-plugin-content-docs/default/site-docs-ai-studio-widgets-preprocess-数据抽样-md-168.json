@@ -1,0 +1,25 @@
+{
+  "unversionedId": "ai-studio/widgets/preprocess/数据抽样",
+  "id": "ai-studio/widgets/preprocess/数据抽样",
+  "title": "数据抽样",
+  "description": "组件介绍",
+  "source": "@site/docs\\ai-studio\\widgets\\preprocess\\数据抽样.md",
+  "sourceDirName": "ai-studio/widgets/preprocess",
+  "slug": "/ai-studio/widgets/preprocess/数据抽样",
+  "permalink": "/docs/ai-studio/widgets/preprocess/数据抽样",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "条件筛选",
+    "permalink": "/docs/ai-studio/widgets/preprocess/条件筛选"
+  },
+  "next": {
+    "title": "合并数据",
+    "permalink": "/docs/ai-studio/widgets/preprocess/合并数据"
+  }
+}

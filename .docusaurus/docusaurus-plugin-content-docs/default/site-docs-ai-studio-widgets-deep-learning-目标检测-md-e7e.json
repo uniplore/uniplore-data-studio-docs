@@ -1,0 +1,25 @@
+{
+  "unversionedId": "ai-studio/widgets/deep-learning/目标检测",
+  "id": "ai-studio/widgets/deep-learning/目标检测",
+  "title": "目标检测",
+  "description": "组件介绍",
+  "source": "@site/docs\\ai-studio\\widgets\\deep-learning\\目标检测.md",
+  "sourceDirName": "ai-studio/widgets/deep-learning",
+  "slug": "/ai-studio/widgets/deep-learning/目标检测",
+  "permalink": "/docs/ai-studio/widgets/deep-learning/目标检测",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "sidebar_position": 0
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "图像分类",
+    "permalink": "/docs/ai-studio/widgets/deep-learning/图像分类"
+  },
+  "next": {
+    "title": "数据结构",
+    "permalink": "/docs/ai-studio/appendix/数据结构"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "unversionedId": "max-studio/blueprint/常见问题/如何动态控制组件高亮",
+  "id": "max-studio/blueprint/常见问题/如何动态控制组件高亮",
+  "title": "如何动态控制组件高亮",
+  "description": "本文档以基本柱状图组件之间控制柱体高亮为例，为您介绍使用蓝图编辑器功能动态控制组件高亮的方法。",
+  "source": "@site/docs\\max-studio\\05-blueprint\\常见问题\\如何动态控制组件高亮.md",
+  "sourceDirName": "max-studio/05-blueprint/常见问题",
+  "slug": "/max-studio/blueprint/常见问题/如何动态控制组件高亮",
+  "permalink": "/docs/max-studio/blueprint/常见问题/如何动态控制组件高亮",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "如何动态控制组件样式",
+    "permalink": "/docs/max-studio/blueprint/常见问题/如何动态控制组件样式"
+  },
+  "next": {
+    "title": "如何在请求数据接口时传递动态参数",
+    "permalink": "/docs/max-studio/blueprint/常见问题/如何在请求数据接口时传递动态参数"
+  }
+}

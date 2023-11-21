@@ -1,0 +1,26 @@
+{
+  "unversionedId": "data-studio/data-service/domain-service",
+  "id": "data-studio/data-service/domain-service",
+  "title": "域名服务",
+  "description": "概述",
+  "source": "@site/docs/data-studio/data-service/domain-service.md",
+  "sourceDirName": "data-studio/data-service",
+  "slug": "/data-studio/data-service/domain-service",
+  "permalink": "/docs/data-studio/data-service/domain-service",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "title": "域名服务",
+    "sidebar_position": 8
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "服务策略",
+    "permalink": "/docs/data-studio/data-service/service-strategy"
+  },
+  "next": {
+    "title": "请求模板",
+    "permalink": "/docs/data-studio/data-service/request-template"
+  }
+}

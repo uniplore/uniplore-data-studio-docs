@@ -1,0 +1,26 @@
+{
+  "unversionedId": "max-studio/03component-guide/15-3dcity/图标点",
+  "id": "max-studio/03component-guide/15-3dcity/图标点",
+  "title": "图标点",
+  "description": "图标点",
+  "source": "@site/docs\\max-studio\\03component-guide\\15-3dcity\\图标点.md",
+  "sourceDirName": "max-studio/03component-guide/15-3dcity",
+  "slug": "/max-studio/03component-guide/15-3dcity/图标点",
+  "permalink": "/docs/max-studio/03component-guide/15-3dcity/图标点",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 11,
+  "frontMatter": {
+    "sidebar_position": 11,
+    "title": "图标点"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "三维城市父组件",
+    "permalink": "/docs/max-studio/03component-guide/15-3dcity/三维城市父组件"
+  },
+  "next": {
+    "title": "贴地道路",
+    "permalink": "/docs/max-studio/03component-guide/15-3dcity/贴地道路"
+  }
+}

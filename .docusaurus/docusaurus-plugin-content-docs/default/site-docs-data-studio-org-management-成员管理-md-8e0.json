@@ -1,0 +1,26 @@
+{
+  "unversionedId": "data-studio/org-management/成员管理",
+  "id": "data-studio/org-management/成员管理",
+  "title": "成员管理",
+  "description": "概述",
+  "source": "@site/docs\\data-studio\\org-management\\成员管理.md",
+  "sourceDirName": "data-studio/org-management",
+  "slug": "/data-studio/org-management/成员管理",
+  "permalink": "/docs/data-studio/org-management/成员管理",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "成员管理",
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "项目管理",
+    "permalink": "/docs/data-studio/org-management/项目管理"
+  },
+  "next": {
+    "title": "数据源管理",
+    "permalink": "/docs/data-studio/org-management/数据源管理"
+  }
+}

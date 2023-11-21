@@ -1,0 +1,22 @@
+{
+  "unversionedId": "max-studio/03component-guide/pie/基本饼图",
+  "id": "max-studio/03component-guide/pie/基本饼图",
+  "title": "基本饼图",
+  "description": "基本饼图是饼图的一种，支持通过极坐标来确定图表的大小，支持图表外部的标签展示，支持真实数值和百分比值的切换，支持自定义图形样式和多系列数据配置，能够清晰智能地展示各类别的占比情况。本文介绍基本饼图各配置项的含义。",
+  "source": "@site/docs\\max-studio\\03component-guide\\05-pie\\基本饼图.md",
+  "sourceDirName": "max-studio/03component-guide/05-pie",
+  "slug": "/max-studio/03component-guide/pie/基本饼图",
+  "permalink": "/docs/max-studio/03component-guide/pie/基本饼图",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "单值百分比饼图",
+    "permalink": "/docs/max-studio/03component-guide/pie/单值百分比饼图"
+  },
+  "next": {
+    "title": "多维度饼图",
+    "permalink": "/docs/max-studio/03component-guide/pie/多维度饼图"
+  }
+}

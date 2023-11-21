@@ -1,0 +1,25 @@
+{
+  "unversionedId": "ai-studio/widgets/clustering/层次聚类",
+  "id": "ai-studio/widgets/clustering/层次聚类",
+  "title": "层次聚类",
+  "description": "组件介绍",
+  "source": "@site/docs\\ai-studio\\widgets\\clustering\\层次聚类.md",
+  "sourceDirName": "ai-studio/widgets/clustering",
+  "slug": "/ai-studio/widgets/clustering/层次聚类",
+  "permalink": "/docs/ai-studio/widgets/clustering/层次聚类",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "交互式K-Means",
+    "permalink": "/docs/ai-studio/widgets/clustering/交互式K-Means"
+  },
+  "next": {
+    "title": "K-Means",
+    "permalink": "/docs/ai-studio/widgets/clustering/K-Means"
+  }
+}

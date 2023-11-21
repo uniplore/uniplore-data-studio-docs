@@ -1,0 +1,25 @@
+{
+  "unversionedId": "ai-studio/widgets/network/网络查看器",
+  "id": "ai-studio/widgets/network/网络查看器",
+  "title": "网络查看器",
+  "description": "组件介绍",
+  "source": "@site/docs\\ai-studio\\widgets\\network\\网络查看器.md",
+  "sourceDirName": "ai-studio/widgets/network",
+  "slug": "/ai-studio/widgets/network/网络查看器",
+  "permalink": "/docs/ai-studio/widgets/network/网络查看器",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "距离转换网络",
+    "permalink": "/docs/ai-studio/widgets/network/距离转换网络"
+  },
+  "next": {
+    "title": "网络分析器",
+    "permalink": "/docs/ai-studio/widgets/network/网络分析器"
+  }
+}

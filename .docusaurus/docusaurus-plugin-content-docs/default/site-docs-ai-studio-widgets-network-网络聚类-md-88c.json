@@ -1,0 +1,25 @@
+{
+  "unversionedId": "ai-studio/widgets/network/网络聚类",
+  "id": "ai-studio/widgets/network/网络聚类",
+  "title": "网络聚类",
+  "description": "组件介绍",
+  "source": "@site/docs\\ai-studio\\widgets\\network\\网络聚类.md",
+  "sourceDirName": "ai-studio/widgets/network",
+  "slug": "/ai-studio/widgets/network/网络聚类",
+  "permalink": "/docs/ai-studio/widgets/network/网络聚类",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "网络分析器",
+    "permalink": "/docs/ai-studio/widgets/network/网络分析器"
+  },
+  "next": {
+    "title": "Python脚本",
+    "permalink": "/docs/ai-studio/widgets/tool/Python脚本"
+  }
+}

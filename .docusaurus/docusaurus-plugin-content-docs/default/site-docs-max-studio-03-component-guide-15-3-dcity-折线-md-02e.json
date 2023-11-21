@@ -1,0 +1,26 @@
+{
+  "unversionedId": "max-studio/03component-guide/15-3dcity/折线",
+  "id": "max-studio/03component-guide/15-3dcity/折线",
+  "title": "折线",
+  "description": "折线",
+  "source": "@site/docs\\max-studio\\03component-guide\\15-3dcity\\折线.md",
+  "sourceDirName": "max-studio/03component-guide/15-3dcity",
+  "slug": "/max-studio/03component-guide/15-3dcity/折线",
+  "permalink": "/docs/max-studio/03component-guide/15-3dcity/折线",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 15,
+  "frontMatter": {
+    "sidebar_position": 15,
+    "title": "折线"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "自定义图元",
+    "permalink": "/docs/max-studio/03component-guide/15-3dcity/自定义图元"
+  },
+  "next": {
+    "title": "添加API请求数据",
+    "permalink": "/docs/max-studio/datasource-management/add-datasource/添加API请求数据"
+  }
+}

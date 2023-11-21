@@ -1,0 +1,25 @@
+{
+  "unversionedId": "ai-studio/widgets/clustering/K-Modes",
+  "id": "ai-studio/widgets/clustering/K-Modes",
+  "title": "K-Modes",
+  "description": "组件介绍",
+  "source": "@site/docs/ai-studio/widgets/clustering/K-Modes.md",
+  "sourceDirName": "ai-studio/widgets/clustering",
+  "slug": "/ai-studio/widgets/clustering/K-Modes",
+  "permalink": "/docs/ai-studio/widgets/clustering/K-Modes",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "BIRCH",
+    "permalink": "/docs/ai-studio/widgets/clustering/BIRCH"
+  },
+  "next": {
+    "title": "转换时间序列",
+    "permalink": "/docs/ai-studio/widgets/time-series/转换时间序列"
+  }
+}

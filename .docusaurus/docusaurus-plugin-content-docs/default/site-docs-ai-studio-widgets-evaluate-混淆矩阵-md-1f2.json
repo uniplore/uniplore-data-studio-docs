@@ -1,0 +1,25 @@
+{
+  "unversionedId": "ai-studio/widgets/evaluate/混淆矩阵",
+  "id": "ai-studio/widgets/evaluate/混淆矩阵",
+  "title": "混淆矩阵",
+  "description": "组件介绍",
+  "source": "@site/docs\\ai-studio\\widgets\\evaluate\\混淆矩阵.md",
+  "sourceDirName": "ai-studio/widgets/evaluate",
+  "slug": "/ai-studio/widgets/evaluate/混淆矩阵",
+  "permalink": "/docs/ai-studio/widgets/evaluate/混淆矩阵",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "预测",
+    "permalink": "/docs/ai-studio/widgets/evaluate/预测"
+  },
+  "next": {
+    "title": "ROC曲线",
+    "permalink": "/docs/ai-studio/widgets/evaluate/ROC曲线"
+  }
+}

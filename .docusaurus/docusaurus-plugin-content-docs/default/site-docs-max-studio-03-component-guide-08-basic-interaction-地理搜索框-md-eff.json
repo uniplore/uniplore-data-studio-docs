@@ -1,0 +1,22 @@
+{
+  "unversionedId": "max-studio/03component-guide/basic-interaction/地理搜索框",
+  "id": "max-studio/03component-guide/basic-interaction/地理搜索框",
+  "title": "地理搜索框",
+  "description": "地理搜索框是基础交互组件的一种，支持自定义搜索框和结果框大小、位置、颜色和文本样式等，一般情况下需要与地图组件配合使用完成地区的搜索任务，并显示在可视化应用上。本文介绍地理搜索框各配置项的含义。",
+  "source": "@site/docs\\max-studio\\03component-guide\\08-basic-interaction\\地理搜索框.md",
+  "sourceDirName": "max-studio/03component-guide/08-basic-interaction",
+  "slug": "/max-studio/03component-guide/basic-interaction/地理搜索框",
+  "permalink": "/docs/max-studio/03component-guide/basic-interaction/地理搜索框",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "全屏切换",
+    "permalink": "/docs/max-studio/03component-guide/basic-interaction/全屏切换"
+  },
+  "next": {
+    "title": "时间轴",
+    "permalink": "/docs/max-studio/03component-guide/basic-interaction/时间轴"
+  }
+}

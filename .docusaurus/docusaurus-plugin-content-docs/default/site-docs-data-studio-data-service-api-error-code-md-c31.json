@@ -1,0 +1,26 @@
+{
+  "unversionedId": "data-studio/data-service/api-error-code",
+  "id": "data-studio/data-service/api-error-code",
+  "title": "错误码",
+  "description": "概述",
+  "source": "@site/docs/data-studio/data-service/api-error-code.md",
+  "sourceDirName": "data-studio/data-service",
+  "slug": "/data-studio/data-service/api-error-code",
+  "permalink": "/docs/data-studio/data-service/api-error-code",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "title": "错误码",
+    "sidebar_position": 10
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "请求模板",
+    "permalink": "/docs/data-studio/data-service/request-template"
+  },
+  "next": {
+    "title": "编码类型",
+    "permalink": "/docs/data-studio/data-service/sample-code-type"
+  }
+}

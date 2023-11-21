@@ -1,0 +1,26 @@
+{
+  "unversionedId": "max-studio/03component-guide/15-3dcity/地形",
+  "id": "max-studio/03component-guide/15-3dcity/地形",
+  "title": "地形",
+  "description": "地形",
+  "source": "@site/docs\\max-studio\\03component-guide\\15-3dcity\\地形.md",
+  "sourceDirName": "max-studio/03component-guide/15-3dcity",
+  "slug": "/max-studio/03component-guide/15-3dcity/地形",
+  "permalink": "/docs/max-studio/03component-guide/15-3dcity/地形",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3,
+    "title": "地形"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "地图影像",
+    "permalink": "/docs/max-studio/03component-guide/15-3dcity/地图影像"
+  },
+  "next": {
+    "title": "建筑",
+    "permalink": "/docs/max-studio/03component-guide/15-3dcity/建筑"
+  }
+}

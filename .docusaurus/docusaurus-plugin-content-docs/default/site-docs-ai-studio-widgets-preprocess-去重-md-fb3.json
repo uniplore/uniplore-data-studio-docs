@@ -1,0 +1,25 @@
+{
+  "unversionedId": "ai-studio/widgets/preprocess/去重",
+  "id": "ai-studio/widgets/preprocess/去重",
+  "title": "去重",
+  "description": "组件介绍",
+  "source": "@site/docs\\ai-studio\\widgets\\preprocess\\去重.md",
+  "sourceDirName": "ai-studio/widgets/preprocess",
+  "slug": "/ai-studio/widgets/preprocess/去重",
+  "permalink": "/docs/ai-studio/widgets/preprocess/去重",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "缺失值处理",
+    "permalink": "/docs/ai-studio/widgets/preprocess/缺失值处理"
+  },
+  "next": {
+    "title": "离群值处理",
+    "permalink": "/docs/ai-studio/widgets/preprocess/离群值处理"
+  }
+}

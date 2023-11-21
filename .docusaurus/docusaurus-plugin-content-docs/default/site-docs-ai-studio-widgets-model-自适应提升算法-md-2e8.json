@@ -1,0 +1,25 @@
+{
+  "unversionedId": "ai-studio/widgets/model/自适应提升算法",
+  "id": "ai-studio/widgets/model/自适应提升算法",
+  "title": "自适应提升算法",
+  "description": "组件介绍",
+  "source": "@site/docs\\ai-studio\\widgets\\model\\自适应提升算法.md",
+  "sourceDirName": "ai-studio/widgets/model",
+  "slug": "/ai-studio/widgets/model/自适应提升算法",
+  "permalink": "/docs/ai-studio/widgets/model/自适应提升算法",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "sidebar_position": 10
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "朴素贝叶斯",
+    "permalink": "/docs/ai-studio/widgets/model/朴素贝叶斯"
+  },
+  "next": {
+    "title": "神经网络",
+    "permalink": "/docs/ai-studio/widgets/model/神经网络"
+  }
+}

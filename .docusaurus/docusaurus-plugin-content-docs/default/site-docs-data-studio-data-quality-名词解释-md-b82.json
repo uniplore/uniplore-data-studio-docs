@@ -1,0 +1,26 @@
+{
+  "unversionedId": "data-studio/data-quality/名词解释",
+  "id": "data-studio/data-quality/名词解释",
+  "title": "名称解释",
+  "description": "专有名词",
+  "source": "@site/docs\\data-studio\\data-quality\\名词解释.md",
+  "sourceDirName": "data-studio/data-quality",
+  "slug": "/data-studio/data-quality/名词解释",
+  "permalink": "/docs/data-studio/data-quality/名词解释",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "名称解释",
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "概述",
+    "permalink": "/docs/data-studio/data-quality/概述"
+  },
+  "next": {
+    "title": "数据源支持",
+    "permalink": "/docs/data-studio/data-quality/数据源支持"
+  }
+}

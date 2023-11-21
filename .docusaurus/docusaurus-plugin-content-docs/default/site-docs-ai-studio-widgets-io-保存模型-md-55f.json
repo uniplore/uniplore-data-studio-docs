@@ -1,0 +1,25 @@
+{
+  "unversionedId": "ai-studio/widgets/io/保存模型",
+  "id": "ai-studio/widgets/io/保存模型",
+  "title": "保存模型",
+  "description": "组件介绍",
+  "source": "@site/docs\\ai-studio\\widgets\\io\\保存模型.md",
+  "sourceDirName": "ai-studio/widgets/io",
+  "slug": "/ai-studio/widgets/io/保存模型",
+  "permalink": "/docs/ai-studio/widgets/io/保存模型",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "sidebar_position": 10
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "数据入库",
+    "permalink": "/docs/ai-studio/widgets/io/数据入库"
+  },
+  "next": {
+    "title": "加载模型",
+    "permalink": "/docs/ai-studio/widgets/io/加载模型"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "unversionedId": "ai-studio/widgets/io/加载语料库",
+  "id": "ai-studio/widgets/io/加载语料库",
+  "title": "加载语料库",
+  "description": "组件介绍",
+  "source": "@site/docs\\ai-studio\\widgets\\io\\加载语料库.md",
+  "sourceDirName": "ai-studio/widgets/io",
+  "slug": "/ai-studio/widgets/io/加载语料库",
+  "permalink": "/docs/ai-studio/widgets/io/加载语料库",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "数据生成",
+    "permalink": "/docs/ai-studio/widgets/io/数据生成"
+  },
+  "next": {
+    "title": "加载距离文件",
+    "permalink": "/docs/ai-studio/widgets/io/加载距离文件"
+  }
+}

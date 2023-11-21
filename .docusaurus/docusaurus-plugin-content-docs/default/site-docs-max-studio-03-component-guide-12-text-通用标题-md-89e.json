@@ -1,0 +1,22 @@
+{
+  "unversionedId": "max-studio/03component-guide/text/通用标题",
+  "id": "max-studio/03component-guide/text/通用标题",
+  "title": "通用标题",
+  "description": "通用标题是文字组件的一种，支持自定义标题的内容、位置、颜色、超链接等，支持在可视化应用中添加多个通用标题组件，展示可视化应用和可视化应用中各个模块的标题。本文介绍通用标题各配置项的含义。",
+  "source": "@site/docs\\max-studio\\03component-guide\\12-text\\通用标题.md",
+  "sourceDirName": "max-studio/03component-guide/12-text",
+  "slug": "/max-studio/03component-guide/text/通用标题",
+  "permalink": "/docs/max-studio/03component-guide/text/通用标题",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "进度条表格",
+    "permalink": "/docs/max-studio/03component-guide/text/进度条表格"
+  },
+  "next": {
+    "title": "键值表格",
+    "permalink": "/docs/max-studio/03component-guide/text/键值表格"
+  }
+}

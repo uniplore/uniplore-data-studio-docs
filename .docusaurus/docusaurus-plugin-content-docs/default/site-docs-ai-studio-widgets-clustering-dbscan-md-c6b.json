@@ -1,0 +1,25 @@
+{
+  "unversionedId": "ai-studio/widgets/clustering/DBSCAN",
+  "id": "ai-studio/widgets/clustering/DBSCAN",
+  "title": "DBSCAN",
+  "description": "组件介绍",
+  "source": "@site/docs/ai-studio/widgets/clustering/DBSCAN.md",
+  "sourceDirName": "ai-studio/widgets/clustering",
+  "slug": "/ai-studio/widgets/clustering/DBSCAN",
+  "permalink": "/docs/ai-studio/widgets/clustering/DBSCAN",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Mean Shift",
+    "permalink": "/docs/ai-studio/widgets/clustering/Mean Shift"
+  },
+  "next": {
+    "title": "BIRCH",
+    "permalink": "/docs/ai-studio/widgets/clustering/BIRCH"
+  }
+}

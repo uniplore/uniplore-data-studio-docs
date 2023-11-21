@@ -1,0 +1,26 @@
+{
+  "unversionedId": "data-studio/data-service/intro",
+  "id": "data-studio/data-service/intro",
+  "title": "概述",
+  "description": "产品介绍",
+  "source": "@site/docs/data-studio/data-service/intro.md",
+  "sourceDirName": "data-studio/data-service",
+  "slug": "/data-studio/data-service/intro",
+  "permalink": "/docs/data-studio/data-service/intro",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "title": "概述",
+    "sidebar_position": 0
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "changeLog",
+    "permalink": "/docs/data-studio/data-quality/changeLog"
+  },
+  "next": {
+    "title": "名词解释",
+    "permalink": "/docs/data-studio/data-service/glossary"
+  }
+}

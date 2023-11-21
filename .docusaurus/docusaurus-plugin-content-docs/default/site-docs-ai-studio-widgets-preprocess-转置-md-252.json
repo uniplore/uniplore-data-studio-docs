@@ -1,0 +1,25 @@
+{
+  "unversionedId": "ai-studio/widgets/preprocess/转置",
+  "id": "ai-studio/widgets/preprocess/转置",
+  "title": "转置",
+  "description": "组件介绍",
+  "source": "@site/docs\\ai-studio\\widgets\\preprocess\\转置.md",
+  "sourceDirName": "ai-studio/widgets/preprocess",
+  "slug": "/ai-studio/widgets/preprocess/转置",
+  "permalink": "/docs/ai-studio/widgets/preprocess/转置",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "数据连接",
+    "permalink": "/docs/ai-studio/widgets/preprocess/数据连接"
+  },
+  "next": {
+    "title": "数据混淆",
+    "permalink": "/docs/ai-studio/widgets/preprocess/数据混淆"
+  }
+}

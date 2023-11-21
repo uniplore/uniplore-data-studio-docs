@@ -1,0 +1,25 @@
+{
+  "unversionedId": "ai-studio/widgets/clustering/交互式K-Means",
+  "id": "ai-studio/widgets/clustering/交互式K-Means",
+  "title": "交互式K-Means",
+  "description": "组件介绍",
+  "source": "@site/docs\\ai-studio\\widgets\\clustering\\交互式K-Means.md",
+  "sourceDirName": "ai-studio/widgets/clustering",
+  "slug": "/ai-studio/widgets/clustering/交互式K-Means",
+  "permalink": "/docs/ai-studio/widgets/clustering/交互式K-Means",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "sidebar_position": 0
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "校正曲线",
+    "permalink": "/docs/ai-studio/widgets/evaluate/校正曲线"
+  },
+  "next": {
+    "title": "层次聚类",
+    "permalink": "/docs/ai-studio/widgets/clustering/层次聚类"
+  }
+}

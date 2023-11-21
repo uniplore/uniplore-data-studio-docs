@@ -1,0 +1,25 @@
+{
+  "unversionedId": "ai-studio/widgets/preprocess/离群值处理",
+  "id": "ai-studio/widgets/preprocess/离群值处理",
+  "title": "离群值处理",
+  "description": "组件介绍",
+  "source": "@site/docs\\ai-studio\\widgets\\preprocess\\离群值处理.md",
+  "sourceDirName": "ai-studio/widgets/preprocess",
+  "slug": "/ai-studio/widgets/preprocess/离群值处理",
+  "permalink": "/docs/ai-studio/widgets/preprocess/离群值处理",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "sidebar_position": 8
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "去重",
+    "permalink": "/docs/ai-studio/widgets/preprocess/去重"
+  },
+  "next": {
+    "title": "编辑属性值",
+    "permalink": "/docs/ai-studio/widgets/preprocess/编辑属性值"
+  }
+}

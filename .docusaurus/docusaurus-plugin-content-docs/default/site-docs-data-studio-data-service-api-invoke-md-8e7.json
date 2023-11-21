@@ -1,0 +1,26 @@
+{
+  "unversionedId": "data-studio/data-service/api-invoke",
+  "id": "data-studio/data-service/api-invoke",
+  "title": "服务调用",
+  "description": "概述",
+  "source": "@site/docs/data-studio/data-service/api-invoke.md",
+  "sourceDirName": "data-studio/data-service",
+  "slug": "/data-studio/data-service/api-invoke",
+  "permalink": "/docs/data-studio/data-service/api-invoke",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 13,
+  "frontMatter": {
+    "title": "服务调用",
+    "sidebar_position": 13
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "示例代码",
+    "permalink": "/docs/data-studio/data-service/invoke-sample-code"
+  },
+  "next": {
+    "title": "changeLog",
+    "permalink": "/docs/data-studio/data-service/changeLog"
+  }
+}

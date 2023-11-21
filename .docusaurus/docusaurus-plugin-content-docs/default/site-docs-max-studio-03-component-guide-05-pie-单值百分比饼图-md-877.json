@@ -1,0 +1,22 @@
+{
+  "unversionedId": "max-studio/03component-guide/pie/单值百分比饼图",
+  "id": "max-studio/03component-guide/pie/单值百分比饼图",
+  "title": "单值百分比饼图",
+  "description": "单值百分比饼图是饼图的一种，与基本饼图相比，单值百分比饼图适用于展示单个类别与总体的数据占比情况，不支持多数据系列的配置。本文介绍单值百分比饼图各配置项的含义。",
+  "source": "@site/docs\\max-studio\\03component-guide\\05-pie\\单值百分比饼图.md",
+  "sourceDirName": "max-studio/03component-guide/05-pie",
+  "slug": "/max-studio/03component-guide/pie/单值百分比饼图",
+  "permalink": "/docs/max-studio/03component-guide/pie/单值百分比饼图",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "水平胶囊柱状图",
+    "permalink": "/docs/max-studio/03component-guide/bar/水平胶囊柱状图"
+  },
+  "next": {
+    "title": "基本饼图",
+    "permalink": "/docs/max-studio/03component-guide/pie/基本饼图"
+  }
+}

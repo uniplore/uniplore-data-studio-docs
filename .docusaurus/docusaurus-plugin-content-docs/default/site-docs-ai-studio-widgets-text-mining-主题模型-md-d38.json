@@ -1,0 +1,25 @@
+{
+  "unversionedId": "ai-studio/widgets/text-mining/主题模型",
+  "id": "ai-studio/widgets/text-mining/主题模型",
+  "title": "主题模型",
+  "description": "组件介绍",
+  "source": "@site/docs\\ai-studio\\widgets\\text-mining\\主题模型.md",
+  "sourceDirName": "ai-studio/widgets/text-mining",
+  "slug": "/ai-studio/widgets/text-mining/主题模型",
+  "permalink": "/docs/ai-studio/widgets/text-mining/主题模型",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "情感分析",
+    "permalink": "/docs/ai-studio/widgets/text-mining/情感分析"
+  },
+  "next": {
+    "title": "语料库查看器",
+    "permalink": "/docs/ai-studio/widgets/text-mining/语料库查看器"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "unversionedId": "max-studio/blueprint/常见问题/如何展示多个实时数据相加结果",
+  "id": "max-studio/blueprint/常见问题/如何展示多个实时数据相加结果",
+  "title": "如何展示多个实时数据相加结果",
+  "description": "本文档以使用目标通用标题展示其他两个通用标题的实时数据相加结果为例，为您介绍如何使用蓝图编辑器功能展示多个实时数据相加的结果。",
+  "source": "@site/docs\\max-studio\\05-blueprint\\常见问题\\如何展示多个实时数据相加结果.md",
+  "sourceDirName": "max-studio/05-blueprint/常见问题",
+  "slug": "/max-studio/blueprint/常见问题/如何展示多个实时数据相加结果",
+  "permalink": "/docs/max-studio/blueprint/常见问题/如何展示多个实时数据相加结果",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "如何实现跨屏联动",
+    "permalink": "/docs/max-studio/blueprint/常见问题/如何实现跨屏联动"
+  },
+  "next": {
+    "title": "如何通过合并请求进行数据分发",
+    "permalink": "/docs/max-studio/blueprint/常见问题/如何通过合并请求进行数据分发"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "unversionedId": "ai-studio/widgets/feature-engineering/独热编码",
+  "id": "ai-studio/widgets/feature-engineering/独热编码",
+  "title": "独热编码",
+  "description": "组件介绍",
+  "source": "@site/docs\\ai-studio\\widgets\\feature-engineering\\独热编码.md",
+  "sourceDirName": "ai-studio/widgets/feature-engineering",
+  "slug": "/ai-studio/widgets/feature-engineering/独热编码",
+  "permalink": "/docs/ai-studio/widgets/feature-engineering/独热编码",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "离散化",
+    "permalink": "/docs/ai-studio/widgets/feature-engineering/离散化"
+  },
+  "next": {
+    "title": "新建分类",
+    "permalink": "/docs/ai-studio/widgets/feature-engineering/新建分类"
+  }
+}

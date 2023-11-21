@@ -1,0 +1,26 @@
+{
+  "unversionedId": "data-studio/data-standard/行业模板",
+  "id": "data-studio/data-standard/行业模板",
+  "title": "行业模板",
+  "description": "概述",
+  "source": "@site/docs\\data-studio\\data-standard\\行业模板.md",
+  "sourceDirName": "data-studio/data-standard",
+  "slug": "/data-studio/data-standard/行业模板",
+  "permalink": "/docs/data-studio/data-standard/行业模板",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "title": "行业模板",
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "代码集管理",
+    "permalink": "/docs/data-studio/data-standard/code-set-management"
+  },
+  "next": {
+    "title": "changeLog",
+    "permalink": "/docs/data-studio/data-standard/changeLog"
+  }
+}

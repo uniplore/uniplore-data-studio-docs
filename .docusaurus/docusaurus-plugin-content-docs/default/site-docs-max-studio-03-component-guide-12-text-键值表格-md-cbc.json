@@ -1,0 +1,22 @@
+{
+  "unversionedId": "max-studio/03component-guide/text/键值表格",
+  "id": "max-studio/03component-guide/text/键值表格",
+  "title": "键值表格",
+  "description": "键值表格是文字组件的一种，支持以键值的形式自定义表格内容，能够将数据信息以表格的形式清晰地展示在可视化应用上，仅支持两列数据的展示，且无法新增列。本文介绍键值表格各配置项的含义。",
+  "source": "@site/docs\\max-studio\\03component-guide\\12-text\\键值表格.md",
+  "sourceDirName": "max-studio/03component-guide/12-text",
+  "slug": "/max-studio/03component-guide/text/键值表格",
+  "permalink": "/docs/max-studio/03component-guide/text/键值表格",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "通用标题",
+    "permalink": "/docs/max-studio/03component-guide/text/通用标题"
+  },
+  "next": {
+    "title": "箭头标绘",
+    "permalink": "/docs/max-studio/03component-guide/material/箭头标绘"
+  }
+}

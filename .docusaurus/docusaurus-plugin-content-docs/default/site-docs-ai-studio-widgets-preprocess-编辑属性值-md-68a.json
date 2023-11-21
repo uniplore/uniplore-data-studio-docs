@@ -1,0 +1,25 @@
+{
+  "unversionedId": "ai-studio/widgets/preprocess/编辑属性值",
+  "id": "ai-studio/widgets/preprocess/编辑属性值",
+  "title": "编辑属性值",
+  "description": "组件介绍",
+  "source": "@site/docs\\ai-studio\\widgets\\preprocess\\编辑属性值.md",
+  "sourceDirName": "ai-studio/widgets/preprocess",
+  "slug": "/ai-studio/widgets/preprocess/编辑属性值",
+  "permalink": "/docs/ai-studio/widgets/preprocess/编辑属性值",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 9,
+  "frontMatter": {
+    "sidebar_position": 9
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "离群值处理",
+    "permalink": "/docs/ai-studio/widgets/preprocess/离群值处理"
+  },
+  "next": {
+    "title": "数据预处理",
+    "permalink": "/docs/ai-studio/widgets/preprocess/数据预处理"
+  }
+}

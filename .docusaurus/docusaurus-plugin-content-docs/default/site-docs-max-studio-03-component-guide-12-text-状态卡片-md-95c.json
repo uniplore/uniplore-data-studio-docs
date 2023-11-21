@@ -1,0 +1,22 @@
+{
+  "unversionedId": "max-studio/03component-guide/text/状态卡片",
+  "id": "max-studio/03component-guide/text/状态卡片",
+  "title": "状态卡片",
+  "description": "状态卡片是文字组件的一种，支持多系列的状态类别配置，能够以彩色圆点的形式在可视化应用中直观地展示多种类别的状态信息，比如展示一个集群中多台服务器的运行状态。本文介绍状态卡片各配置项的含义。",
+  "source": "@site/docs\\max-studio\\03component-guide\\12-text\\状态卡片.md",
+  "sourceDirName": "max-studio/03component-guide/12-text",
+  "slug": "/max-studio/03component-guide/text/状态卡片",
+  "permalink": "/docs/max-studio/03component-guide/text/状态卡片",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "时间器",
+    "permalink": "/docs/max-studio/03component-guide/text/时间器"
+  },
+  "next": {
+    "title": "词云",
+    "permalink": "/docs/max-studio/03component-guide/text/词云"
+  }
+}

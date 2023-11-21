@@ -1,0 +1,26 @@
+{
+  "unversionedId": "data-studio/data-assets/meta-model",
+  "id": "data-studio/data-assets/meta-model",
+  "title": "元模型管理",
+  "description": "概述",
+  "source": "@site/docs/data-studio/data-assets/meta-model.md",
+  "sourceDirName": "data-studio/data-assets",
+  "slug": "/data-studio/data-assets/meta-model",
+  "permalink": "/docs/data-studio/data-assets/meta-model",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "title": "元模型管理",
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "元数据同步",
+    "permalink": "/docs/data-studio/data-assets/metadata-exchange"
+  },
+  "next": {
+    "title": "全部元数据",
+    "permalink": "/docs/data-studio/data-assets/全部元数据"
+  }
+}

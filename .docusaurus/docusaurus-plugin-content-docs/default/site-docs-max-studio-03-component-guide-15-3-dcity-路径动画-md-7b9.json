@@ -1,0 +1,26 @@
+{
+  "unversionedId": "max-studio/03component-guide/15-3dcity/路径动画",
+  "id": "max-studio/03component-guide/15-3dcity/路径动画",
+  "title": "路径动画",
+  "description": "路径动画的功能十分强大，除了可以显示一条线表示路线以外，还可以将模型与图标点绑定在路径动画上，让其一直沿着路径动画移动。",
+  "source": "@site/docs\\max-studio\\03component-guide\\15-3dcity\\路径动画.md",
+  "sourceDirName": "max-studio/03component-guide/15-3dcity",
+  "slug": "/max-studio/03component-guide/15-3dcity/路径动画",
+  "permalink": "/docs/max-studio/03component-guide/15-3dcity/路径动画",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5,
+    "title": "路径动画"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "建筑",
+    "permalink": "/docs/max-studio/03component-guide/15-3dcity/建筑"
+  },
+  "next": {
+    "title": "模型",
+    "permalink": "/docs/max-studio/03component-guide/15-3dcity/模型"
+  }
+}

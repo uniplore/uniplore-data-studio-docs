@@ -1,0 +1,22 @@
+{
+  "unversionedId": "max-studio/03component-guide/line/双轴折线图",
+  "id": "max-studio/03component-guide/line/双轴折线图",
+  "title": "双轴折线图",
+  "description": "配置",
+  "source": "@site/docs\\max-studio\\03component-guide\\02-line\\双轴折线图.md",
+  "sourceDirName": "max-studio/03component-guide/02-line",
+  "slug": "/max-studio/03component-guide/line/双轴折线图",
+  "permalink": "/docs/max-studio/03component-guide/line/双轴折线图",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "区域翻牌器",
+    "permalink": "/docs/max-studio/03component-guide/line/区域翻牌器"
+  },
+  "next": {
+    "title": "基本折线图",
+    "permalink": "/docs/max-studio/03component-guide/line/基本折线图"
+  }
+}

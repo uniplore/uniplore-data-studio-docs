@@ -1,0 +1,22 @@
+{
+  "unversionedId": "max-studio/03component-guide/pie/轮播饼图",
+  "id": "max-studio/03component-guide/pie/轮播饼图",
+  "title": "轮播饼图",
+  "description": "轮播饼图是饼图的一种，与其他类别的饼图相比，轮播饼图支持以轮播的方式展示各类别的占比或数值，支持自定义展示百分比值或实际数值，能够更加形象智地在可视化应用中展示数据的占比或变化情况。本文介绍轮播饼图各配置项的含义。",
+  "source": "@site/docs\\max-studio\\03component-guide\\05-pie\\轮播饼图.md",
+  "sourceDirName": "max-studio/03component-guide/05-pie",
+  "slug": "/max-studio/03component-guide/pie/轮播饼图",
+  "permalink": "/docs/max-studio/03component-guide/pie/轮播饼图",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "目标占比饼图",
+    "permalink": "/docs/max-studio/03component-guide/pie/目标占比饼图"
+  },
+  "next": {
+    "title": "Tab列表",
+    "permalink": "/docs/max-studio/03component-guide/basic-interaction/Tab列表"
+  }
+}

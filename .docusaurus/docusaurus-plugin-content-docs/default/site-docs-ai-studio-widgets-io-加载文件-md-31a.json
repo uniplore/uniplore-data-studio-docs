@@ -1,0 +1,25 @@
+{
+  "unversionedId": "ai-studio/widgets/io/加载文件",
+  "id": "ai-studio/widgets/io/加载文件",
+  "title": "加载文件",
+  "description": "组件介绍",
+  "source": "@site/docs\\ai-studio\\widgets\\io\\加载文件.md",
+  "sourceDirName": "ai-studio/widgets/io",
+  "slug": "/ai-studio/widgets/io/加载文件",
+  "permalink": "/docs/ai-studio/widgets/io/加载文件",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "sidebar_position": 0
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "频繁项集",
+    "permalink": "/docs/ai-studio/widgets/associate/频繁项集"
+  },
+  "next": {
+    "title": "数据库加载",
+    "permalink": "/docs/ai-studio/widgets/io/数据库加载"
+  }
+}

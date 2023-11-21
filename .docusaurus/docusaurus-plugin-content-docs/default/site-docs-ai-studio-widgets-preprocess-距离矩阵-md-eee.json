@@ -1,0 +1,25 @@
+{
+  "unversionedId": "ai-studio/widgets/preprocess/距离矩阵",
+  "id": "ai-studio/widgets/preprocess/距离矩阵",
+  "title": "距离矩阵",
+  "description": "组件介绍",
+  "source": "@site/docs\\ai-studio\\widgets\\preprocess\\距离矩阵.md",
+  "sourceDirName": "ai-studio/widgets/preprocess",
+  "slug": "/ai-studio/widgets/preprocess/距离矩阵",
+  "permalink": "/docs/ai-studio/widgets/preprocess/距离矩阵",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 14,
+  "frontMatter": {
+    "sidebar_position": 14
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "距离变换",
+    "permalink": "/docs/ai-studio/widgets/preprocess/距离变换"
+  },
+  "next": {
+    "title": "删减属性值",
+    "permalink": "/docs/ai-studio/widgets/preprocess/删减属性值"
+  }
+}

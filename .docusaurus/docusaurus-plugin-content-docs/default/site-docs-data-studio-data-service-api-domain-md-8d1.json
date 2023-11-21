@@ -1,0 +1,26 @@
+{
+  "unversionedId": "data-studio/data-service/api-domain",
+  "id": "data-studio/data-service/api-domain",
+  "title": "服务域名",
+  "description": "概述",
+  "source": "@site/docs/data-studio/data-service/api-domain.md",
+  "sourceDirName": "data-studio/data-service",
+  "slug": "/data-studio/data-service/api-domain",
+  "permalink": "/docs/data-studio/data-service/api-domain",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "title": "服务域名",
+    "sidebar_position": 8
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "服务策略",
+    "permalink": "/docs/data-studio/data-service/api-strategy"
+  },
+  "next": {
+    "title": "请求模板",
+    "permalink": "/docs/data-studio/data-service/request-template"
+  }
+}

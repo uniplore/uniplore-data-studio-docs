@@ -1,0 +1,26 @@
+{
+  "facebook": {
+    "allTagsPath": "/uniplore-docs-website/blog/tags",
+    "name": "facebook",
+    "count": 1,
+    "permalink": "/uniplore-docs-website/blog/tags/facebook"
+  },
+  "hello": {
+    "allTagsPath": "/uniplore-docs-website/blog/tags",
+    "name": "hello",
+    "count": 2,
+    "permalink": "/uniplore-docs-website/blog/tags/hello"
+  },
+  "docusaurus": {
+    "allTagsPath": "/uniplore-docs-website/blog/tags",
+    "name": "docusaurus",
+    "count": 4,
+    "permalink": "/uniplore-docs-website/blog/tags/docusaurus"
+  },
+  "hola": {
+    "allTagsPath": "/uniplore-docs-website/blog/tags",
+    "name": "hola",
+    "count": 1,
+    "permalink": "/uniplore-docs-website/blog/tags/hola"
+  }
+}

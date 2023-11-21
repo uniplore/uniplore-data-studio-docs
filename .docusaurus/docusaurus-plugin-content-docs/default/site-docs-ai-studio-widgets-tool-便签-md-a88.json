@@ -1,0 +1,25 @@
+{
+  "unversionedId": "ai-studio/widgets/tool/便签",
+  "id": "ai-studio/widgets/tool/便签",
+  "title": "便签",
+  "description": "组件介绍",
+  "source": "@site/docs\\ai-studio\\widgets\\tool\\便签.md",
+  "sourceDirName": "ai-studio/widgets/tool",
+  "slug": "/ai-studio/widgets/tool/便签",
+  "permalink": "/docs/ai-studio/widgets/tool/便签",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Python脚本",
+    "permalink": "/docs/ai-studio/widgets/tool/Python脚本"
+  },
+  "next": {
+    "title": "图像",
+    "permalink": "/docs/ai-studio/widgets/deep-learning/图像"
+  }
+}

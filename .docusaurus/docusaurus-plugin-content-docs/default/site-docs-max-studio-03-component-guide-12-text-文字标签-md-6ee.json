@@ -1,0 +1,22 @@
+{
+  "unversionedId": "max-studio/03component-guide/text/文字标签",
+  "id": "max-studio/03component-guide/text/文字标签",
+  "title": "文字标签",
+  "description": "文字标签是文字组件的一种，支持自定义标签的大小、位置、背景颜色、文本样式等，支持多系列的标签类别配置，能够以文字标签的形式在可视化应用中展示多种类别的标签信息。本文介绍文字标签各配置项的含义。",
+  "source": "@site/docs\\max-studio\\03component-guide\\12-text\\文字标签.md",
+  "sourceDirName": "max-studio/03component-guide/12-text",
+  "slug": "/max-studio/03component-guide/text/文字标签",
+  "permalink": "/docs/max-studio/03component-guide/text/文字标签",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "数字翻牌器",
+    "permalink": "/docs/max-studio/03component-guide/text/数字翻牌器"
+  },
+  "next": {
+    "title": "时间器",
+    "permalink": "/docs/max-studio/03component-guide/text/时间器"
+  }
+}

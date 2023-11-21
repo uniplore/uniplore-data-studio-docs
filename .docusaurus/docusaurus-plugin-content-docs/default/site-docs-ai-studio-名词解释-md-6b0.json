@@ -1,0 +1,25 @@
+{
+  "unversionedId": "ai-studio/名词解释",
+  "id": "ai-studio/名词解释",
+  "title": "名词解释",
+  "description": "控件/组件*：您在人工智能分析平台中工作流编辑以及工作流任务执行的最小单元。",
+  "source": "@site/docs\\ai-studio\\名词解释.md",
+  "sourceDirName": "ai-studio",
+  "slug": "/ai-studio/名词解释",
+  "permalink": "/docs/ai-studio/名词解释",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "简介",
+    "permalink": "/docs/ai-studio/简介"
+  },
+  "next": {
+    "title": "快速入门",
+    "permalink": "/docs/ai-studio/快速入门"
+  }
+}

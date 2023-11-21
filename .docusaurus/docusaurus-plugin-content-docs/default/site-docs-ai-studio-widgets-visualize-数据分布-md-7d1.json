@@ -1,0 +1,25 @@
+{
+  "unversionedId": "ai-studio/widgets/visualize/数据分布",
+  "id": "ai-studio/widgets/visualize/数据分布",
+  "title": "数据分布",
+  "description": "组件介绍",
+  "source": "@site/docs\\ai-studio\\widgets\\visualize\\数据分布.md",
+  "sourceDirName": "ai-studio/widgets/visualize",
+  "slug": "/ai-studio/widgets/visualize/数据分布",
+  "permalink": "/docs/ai-studio/widgets/visualize/数据分布",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "箱型图",
+    "permalink": "/docs/ai-studio/widgets/visualize/箱型图"
+  },
+  "next": {
+    "title": "散点图",
+    "permalink": "/docs/ai-studio/widgets/visualize/散点图"
+  }
+}

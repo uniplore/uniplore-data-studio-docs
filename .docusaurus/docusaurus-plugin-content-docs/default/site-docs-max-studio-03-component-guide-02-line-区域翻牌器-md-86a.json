@@ -1,0 +1,22 @@
+{
+  "unversionedId": "max-studio/03component-guide/line/区域翻牌器",
+  "id": "max-studio/03component-guide/line/区域翻牌器",
+  "title": "区域翻牌器",
+  "description": "配置",
+  "source": "@site/docs\\max-studio\\03component-guide\\02-line\\区域翻牌器.md",
+  "sourceDirName": "max-studio/03component-guide/02-line",
+  "slug": "/max-studio/03component-guide/line/区域翻牌器",
+  "permalink": "/docs/max-studio/03component-guide/line/区域翻牌器",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "区域图",
+    "permalink": "/docs/max-studio/03component-guide/line/区域图"
+  },
+  "next": {
+    "title": "双轴折线图",
+    "permalink": "/docs/max-studio/03component-guide/line/双轴折线图"
+  }
+}

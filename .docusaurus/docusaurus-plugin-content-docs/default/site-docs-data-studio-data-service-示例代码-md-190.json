@@ -1,0 +1,26 @@
+{
+  "unversionedId": "data-studio/data-service/示例代码",
+  "id": "data-studio/data-service/示例代码",
+  "title": "示例代码",
+  "description": "概述",
+  "source": "@site/docs\\data-studio\\data-service\\示例代码.md",
+  "sourceDirName": "data-studio/data-service",
+  "slug": "/data-studio/data-service/示例代码",
+  "permalink": "/docs/data-studio/data-service/示例代码",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 12,
+  "frontMatter": {
+    "title": "示例代码",
+    "sidebar_position": 12
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "编码类型",
+    "permalink": "/docs/data-studio/data-service/编码类型"
+  },
+  "next": {
+    "title": "服务调用",
+    "permalink": "/docs/data-studio/data-service/api-invoke"
+  }
+}

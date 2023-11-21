@@ -1,0 +1,26 @@
+{
+  "unversionedId": "data-studio/data-service/API-Development",
+  "id": "data-studio/data-service/API-Development",
+  "title": "API开发",
+  "description": "概述",
+  "source": "@site/docs/data-studio/data-service/API-Development.md",
+  "sourceDirName": "data-studio/data-service",
+  "slug": "/data-studio/data-service/API-Development",
+  "permalink": "/docs/data-studio/data-service/API-Development",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "API开发",
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "支持数据源",
+    "permalink": "/docs/data-studio/data-service/support-datasource"
+  },
+  "next": {
+    "title": "API管理",
+    "permalink": "/docs/data-studio/data-service/API-Management"
+  }
+}

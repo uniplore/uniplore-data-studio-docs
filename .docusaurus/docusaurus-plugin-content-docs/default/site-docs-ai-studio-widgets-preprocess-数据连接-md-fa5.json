@@ -1,0 +1,25 @@
+{
+  "unversionedId": "ai-studio/widgets/preprocess/数据连接",
+  "id": "ai-studio/widgets/preprocess/数据连接",
+  "title": "数据连接",
+  "description": "组件介绍",
+  "source": "@site/docs\\ai-studio\\widgets\\preprocess\\数据连接.md",
+  "sourceDirName": "ai-studio/widgets/preprocess",
+  "slug": "/ai-studio/widgets/preprocess/数据连接",
+  "permalink": "/docs/ai-studio/widgets/preprocess/数据连接",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "合并数据",
+    "permalink": "/docs/ai-studio/widgets/preprocess/合并数据"
+  },
+  "next": {
+    "title": "转置",
+    "permalink": "/docs/ai-studio/widgets/preprocess/转置"
+  }
+}

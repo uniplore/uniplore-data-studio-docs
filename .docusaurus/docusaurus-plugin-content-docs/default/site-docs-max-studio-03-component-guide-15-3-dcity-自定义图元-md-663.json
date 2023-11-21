@@ -1,0 +1,26 @@
+{
+  "unversionedId": "max-studio/03component-guide/15-3dcity/自定义图元",
+  "id": "max-studio/03component-guide/15-3dcity/自定义图元",
+  "title": "自定义图元",
+  "description": "自定义图元",
+  "source": "@site/docs\\max-studio\\03component-guide\\15-3dcity\\自定义图元.md",
+  "sourceDirName": "max-studio/03component-guide/15-3dcity",
+  "slug": "/max-studio/03component-guide/15-3dcity/自定义图元",
+  "permalink": "/docs/max-studio/03component-guide/15-3dcity/自定义图元",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 14,
+  "frontMatter": {
+    "sidebar_position": 14,
+    "title": "自定义图元"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "贴地图像",
+    "permalink": "/docs/max-studio/03component-guide/15-3dcity/贴地图像"
+  },
+  "next": {
+    "title": "折线",
+    "permalink": "/docs/max-studio/03component-guide/15-3dcity/折线"
+  }
+}

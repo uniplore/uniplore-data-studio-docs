@@ -1,0 +1,22 @@
+{
+  "unversionedId": "max-studio/03component-guide/media/轮播图",
+  "id": "max-studio/03component-guide/media/轮播图",
+  "title": "轮播图",
+  "description": "轮播图是媒体组件的一种，支持自定义轮播图片、轮播动画效果等，能够在可视化应用中展示多张图片轮流播放的效果。本文介绍轮播图各配置项的含义。",
+  "source": "@site/docs\\max-studio\\03component-guide\\11-media\\轮播图.md",
+  "sourceDirName": "max-studio/03component-guide/11-media",
+  "slug": "/max-studio/03component-guide/media/轮播图",
+  "permalink": "/docs/max-studio/03component-guide/media/轮播图",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "视频",
+    "permalink": "/docs/max-studio/03component-guide/media/视频"
+  },
+  "next": {
+    "title": "业务指标趋势",
+    "permalink": "/docs/max-studio/03component-guide/text/业务指标趋势"
+  }
+}

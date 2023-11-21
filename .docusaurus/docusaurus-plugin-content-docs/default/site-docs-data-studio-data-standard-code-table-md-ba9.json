@@ -1,0 +1,26 @@
+{
+  "unversionedId": "data-studio/data-standard/code-table",
+  "id": "data-studio/data-standard/code-table",
+  "title": "代码集管理",
+  "description": "概述",
+  "source": "@site/docs/data-studio/data-standard/code-table.md",
+  "sourceDirName": "data-studio/data-standard",
+  "slug": "/data-studio/data-standard/code-table",
+  "permalink": "/docs/data-studio/data-standard/code-table",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "title": "代码集管理",
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "标准制定",
+    "permalink": "/docs/data-studio/data-standard/standard-formulate"
+  },
+  "next": {
+    "title": "行业模板",
+    "permalink": "/docs/data-studio/data-standard/industry-template"
+  }
+}

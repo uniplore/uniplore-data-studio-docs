@@ -1,0 +1,22 @@
+{
+  "unversionedId": "max-studio/03component-guide/text/跑马灯",
+  "id": "max-studio/03component-guide/text/跑马灯",
+  "title": "跑马灯",
+  "description": "跑马灯是文字组件的一种，支持自定义文本的内容、颜色、动画效果等，能够将组件中的溢出文本以跑马灯动画的形式展示在可视化应用中。本文介绍跑马灯各配置项的含义。",
+  "source": "@site/docs\\max-studio\\03component-guide\\12-text\\跑马灯.md",
+  "sourceDirName": "max-studio/03component-guide/12-text",
+  "slug": "/max-studio/03component-guide/text/跑马灯",
+  "permalink": "/docs/max-studio/03component-guide/text/跑马灯",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "词云",
+    "permalink": "/docs/max-studio/03component-guide/text/词云"
+  },
+  "next": {
+    "title": "轮播列表",
+    "permalink": "/docs/max-studio/03component-guide/text/轮播列表"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "unversionedId": "max-studio/03component-guide/bar/折线柱图",
+  "id": "max-studio/03component-guide/bar/折线柱图",
+  "title": "折线柱图",
+  "description": "折线柱状图是柱状图的一种，支持使用柱图和折线图分别来表示同一类目下的两个维度值，能够在有限的空间内，清晰智能地展示各类别之间和各类别内部的更多维度的数据差异。本文介绍折线柱状图各配置项的含义。",
+  "source": "@site/docs\\max-studio\\03component-guide\\04-bar\\折线柱图.md",
+  "sourceDirName": "max-studio/03component-guide/04-bar",
+  "slug": "/max-studio/03component-guide/bar/折线柱图",
+  "permalink": "/docs/max-studio/03component-guide/bar/折线柱图",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "弧形柱图",
+    "permalink": "/docs/max-studio/03component-guide/bar/弧形柱图"
+  },
+  "next": {
+    "title": "水平基本柱图",
+    "permalink": "/docs/max-studio/03component-guide/bar/水平基本柱图"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "unversionedId": "max-studio/03component-guide/buddle/散点图",
+  "id": "max-studio/03component-guide/buddle/散点图",
+  "title": "散点图",
+  "description": "配置",
+  "source": "@site/docs\\max-studio\\03component-guide\\01-buddle\\散点图.mdx",
+  "sourceDirName": "max-studio/03component-guide/01-buddle",
+  "slug": "/max-studio/03component-guide/buddle/散点图",
+  "permalink": "/docs/max-studio/03component-guide/buddle/散点图",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "01组件概览",
+    "permalink": "/docs/max-studio/component-management/01组件概览"
+  },
+  "next": {
+    "title": "气泡图",
+    "permalink": "/docs/max-studio/03component-guide/buddle/气泡图"
+  }
+}

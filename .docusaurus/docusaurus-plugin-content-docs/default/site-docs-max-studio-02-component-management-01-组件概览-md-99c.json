@@ -1,0 +1,22 @@
+{
+  "unversionedId": "max-studio/component-management/01组件概览",
+  "id": "max-studio/component-management/01组件概览",
+  "title": "01组件概览",
+  "description": "本文档为您介绍Uniplore数据大屏系统支持的组件类型，以及每个类型下所包含的具体组件，帮助您了解各组件的位置分类，更加高效地开发可视化应用。",
+  "source": "@site/docs\\max-studio\\02-component-management\\01组件概览.md",
+  "sourceDirName": "max-studio/02-component-management",
+  "slug": "/max-studio/component-management/01组件概览",
+  "permalink": "/docs/max-studio/component-management/01组件概览",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "产品概览",
+    "permalink": "/docs/max-studio/intro/intro"
+  },
+  "next": {
+    "title": "散点图",
+    "permalink": "/docs/max-studio/03component-guide/buddle/散点图"
+  }
+}

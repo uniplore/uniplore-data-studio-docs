@@ -1,0 +1,22 @@
+{
+  "unversionedId": "max-studio/03component-guide/text/词云",
+  "id": "max-studio/03component-guide/text/词云",
+  "title": "词云",
+  "description": "词云是文字组件的一种，支持自定义文本的内容、颜色、绘制形状等，支持多系列颜色配置，支持根据权重值映射文本大小，能够以词云的形式在可视化应用中展示较多数量的文本。本文介绍词云各配置项的含义。",
+  "source": "@site/docs\\max-studio\\03component-guide\\12-text\\词云.md",
+  "sourceDirName": "max-studio/03component-guide/12-text",
+  "slug": "/max-studio/03component-guide/text/词云",
+  "permalink": "/docs/max-studio/03component-guide/text/词云",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "状态卡片",
+    "permalink": "/docs/max-studio/03component-guide/text/状态卡片"
+  },
+  "next": {
+    "title": "跑马灯",
+    "permalink": "/docs/max-studio/03component-guide/text/跑马灯"
+  }
+}

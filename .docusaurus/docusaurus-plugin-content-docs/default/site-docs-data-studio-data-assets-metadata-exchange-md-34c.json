@@ -1,0 +1,26 @@
+{
+  "unversionedId": "data-studio/data-assets/metadata-exchange",
+  "id": "data-studio/data-assets/metadata-exchange",
+  "title": "元数据同步",
+  "description": "概述",
+  "source": "@site/docs/data-studio/data-assets/metadata-exchange.md",
+  "sourceDirName": "data-studio/data-assets",
+  "slug": "/data-studio/data-assets/metadata-exchange",
+  "permalink": "/docs/data-studio/data-assets/metadata-exchange",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "元数据同步",
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "数据地图",
+    "permalink": "/docs/data-studio/data-assets/data-map"
+  },
+  "next": {
+    "title": "元模型管理",
+    "permalink": "/docs/data-studio/data-assets/metamodel-management"
+  }
+}

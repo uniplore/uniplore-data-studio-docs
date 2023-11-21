@@ -1,0 +1,22 @@
+{
+  "unversionedId": "intro",
+  "id": "intro",
+  "title": "Data Studio 概述",
+  "description": "1. 概述",
+  "source": "@site/docs/intro.md",
+  "sourceDirName": ".",
+  "slug": "/intro",
+  "permalink": "/uniplore-data-studio-docs/en/docs/intro",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Data Studio 概述",
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "开发说明简介",
+    "permalink": "/uniplore-data-studio-docs/en/docs/dev-docs/intro"
+  }
+}

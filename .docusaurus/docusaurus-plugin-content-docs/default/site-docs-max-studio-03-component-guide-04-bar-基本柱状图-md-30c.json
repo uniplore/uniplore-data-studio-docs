@@ -1,0 +1,22 @@
+{
+  "unversionedId": "max-studio/03component-guide/bar/基本柱状图",
+  "id": "max-studio/03component-guide/bar/基本柱状图",
+  "title": "基本柱状图",
+  "description": "基本柱状图是柱状图的一种，相比弧形柱图，基本柱状图组件支持自定义y轴区间和多个系列的数据配置，能够更加智能地展示多维的数据差异，但在可视化应用中占的空间较大。本文介绍基本柱状图各配置项的含义。",
+  "source": "@site/docs\\max-studio\\03component-guide\\04-bar\\基本柱状图.md",
+  "sourceDirName": "max-studio/03component-guide/04-bar",
+  "slug": "/max-studio/03component-guide/bar/基本柱状图",
+  "permalink": "/docs/max-studio/03component-guide/bar/基本柱状图",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "垂直胶囊柱状图",
+    "permalink": "/docs/max-studio/03component-guide/bar/垂直胶囊柱状图"
+  },
+  "next": {
+    "title": "弧形柱图",
+    "permalink": "/docs/max-studio/03component-guide/bar/弧形柱图"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "unversionedId": "ai-studio/widgets/preprocess/距离转换",
+  "id": "ai-studio/widgets/preprocess/距离转换",
+  "title": "距离转换",
+  "description": "组件介绍",
+  "source": "@site/docs\\ai-studio\\widgets\\preprocess\\距离转换.md",
+  "sourceDirName": "ai-studio/widgets/preprocess",
+  "slug": "/ai-studio/widgets/preprocess/距离转换",
+  "permalink": "/docs/ai-studio/widgets/preprocess/距离转换",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 12,
+  "frontMatter": {
+    "sidebar_position": 12
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "数据预处理",
+    "permalink": "/docs/ai-studio/widgets/preprocess/数据预处理"
+  },
+  "next": {
+    "title": "距离变换",
+    "permalink": "/docs/ai-studio/widgets/preprocess/距离变换"
+  }
+}

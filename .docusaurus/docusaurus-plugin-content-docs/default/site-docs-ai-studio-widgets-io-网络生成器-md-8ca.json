@@ -1,0 +1,25 @@
+{
+  "unversionedId": "ai-studio/widgets/io/网络生成器",
+  "id": "ai-studio/widgets/io/网络生成器",
+  "title": "网络生成器",
+  "description": "组件介绍",
+  "source": "@site/docs\\ai-studio\\widgets\\io\\网络生成器.md",
+  "sourceDirName": "ai-studio/widgets/io",
+  "slug": "/ai-studio/widgets/io/网络生成器",
+  "permalink": "/docs/ai-studio/widgets/io/网络生成器",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "加载网络文件",
+    "permalink": "/docs/ai-studio/widgets/io/加载网络文件"
+  },
+  "next": {
+    "title": "保存数据",
+    "permalink": "/docs/ai-studio/widgets/io/保存数据"
+  }
+}

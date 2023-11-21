@@ -1,0 +1,25 @@
+{
+  "unversionedId": "ai-studio/widgets/model/随机梯度下降",
+  "id": "ai-studio/widgets/model/随机梯度下降",
+  "title": "随机梯度下降",
+  "description": "组件介绍",
+  "source": "@site/docs\\ai-studio\\widgets\\model\\随机梯度下降.md",
+  "sourceDirName": "ai-studio/widgets/model",
+  "slug": "/ai-studio/widgets/model/随机梯度下降",
+  "permalink": "/docs/ai-studio/widgets/model/随机梯度下降",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 12,
+  "frontMatter": {
+    "sidebar_position": 12
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "神经网络",
+    "permalink": "/docs/ai-studio/widgets/model/神经网络"
+  },
+  "next": {
+    "title": "梯度提升决策树",
+    "permalink": "/docs/ai-studio/widgets/model/梯度提升决策树"
+  }
+}

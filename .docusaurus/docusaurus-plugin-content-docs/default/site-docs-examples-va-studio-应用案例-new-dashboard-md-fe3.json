@@ -1,0 +1,26 @@
+{
+  "unversionedId": "examples/VA Studio 应用案例/new-dashboard",
+  "id": "examples/VA Studio 应用案例/new-dashboard",
+  "title": "制作仪表盘",
+  "description": "步骤",
+  "source": "@site/docs\\examples\\VA Studio 应用案例\\new-dashboard.md",
+  "sourceDirName": "examples/VA Studio 应用案例",
+  "slug": "/examples/VA Studio 应用案例/new-dashboard",
+  "permalink": "/docs/examples/VA Studio 应用案例/new-dashboard",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "title": "制作仪表盘",
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "制作工作表",
+    "permalink": "/docs/examples/VA Studio 应用案例/new-worksheet"
+  },
+  "next": {
+    "title": "游戏APP用户行为统计分析",
+    "permalink": "/docs/examples/VA Studio 应用案例/game-regist-analysis"
+  }
+}

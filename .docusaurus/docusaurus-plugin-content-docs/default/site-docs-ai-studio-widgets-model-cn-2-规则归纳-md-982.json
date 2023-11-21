@@ -1,0 +1,25 @@
+{
+  "unversionedId": "ai-studio/widgets/model/CN2规则归纳",
+  "id": "ai-studio/widgets/model/CN2规则归纳",
+  "title": "CN2规则归纳",
+  "description": "组件介绍",
+  "source": "@site/docs\\ai-studio\\widgets\\model\\CN2规则归纳.md",
+  "sourceDirName": "ai-studio/widgets/model",
+  "slug": "/ai-studio/widgets/model/CN2规则归纳",
+  "permalink": "/docs/ai-studio/widgets/model/CN2规则归纳",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "一致性算法",
+    "permalink": "/docs/ai-studio/widgets/model/一致性算法"
+  },
+  "next": {
+    "title": "K近邻",
+    "permalink": "/docs/ai-studio/widgets/model/K近邻"
+  }
+}

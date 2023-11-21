@@ -1,0 +1,25 @@
+{
+  "unversionedId": "ai-studio/widgets/network/网络分析器",
+  "id": "ai-studio/widgets/network/网络分析器",
+  "title": "网络分析器",
+  "description": "组件介绍",
+  "source": "@site/docs\\ai-studio\\widgets\\network\\网络分析器.md",
+  "sourceDirName": "ai-studio/widgets/network",
+  "slug": "/ai-studio/widgets/network/网络分析器",
+  "permalink": "/docs/ai-studio/widgets/network/网络分析器",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "网络查看器",
+    "permalink": "/docs/ai-studio/widgets/network/网络查看器"
+  },
+  "next": {
+    "title": "网络聚类",
+    "permalink": "/docs/ai-studio/widgets/network/网络聚类"
+  }
+}

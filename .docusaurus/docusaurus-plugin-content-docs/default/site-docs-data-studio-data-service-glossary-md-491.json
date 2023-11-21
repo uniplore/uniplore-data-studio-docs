@@ -1,0 +1,26 @@
+{
+  "unversionedId": "data-studio/data-service/glossary",
+  "id": "data-studio/data-service/glossary",
+  "title": "名词解释",
+  "description": "专有名词",
+  "source": "@site/docs/data-studio/data-service/glossary.md",
+  "sourceDirName": "data-studio/data-service",
+  "slug": "/data-studio/data-service/glossary",
+  "permalink": "/docs/data-studio/data-service/glossary",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "名词解释",
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "概述",
+    "permalink": "/docs/data-studio/data-service/intro"
+  },
+  "next": {
+    "title": "数据源支持",
+    "permalink": "/docs/data-studio/data-service/support-datasource"
+  }
+}

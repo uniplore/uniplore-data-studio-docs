@@ -1,0 +1,25 @@
+{
+  "unversionedId": "ai-studio/widgets/time-series/聚集",
+  "id": "ai-studio/widgets/time-series/聚集",
+  "title": "聚集",
+  "description": "组件介绍",
+  "source": "@site/docs\\ai-studio\\widgets\\time-series\\聚集.md",
+  "sourceDirName": "ai-studio/widgets/time-series",
+  "slug": "/ai-studio/widgets/time-series/聚集",
+  "permalink": "/docs/ai-studio/widgets/time-series/聚集",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "模型评估",
+    "permalink": "/docs/ai-studio/widgets/time-series/模型评估"
+  },
+  "next": {
+    "title": "差分",
+    "permalink": "/docs/ai-studio/widgets/time-series/差分"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "max-studio/03component-guide/15-3dcity/建筑",
+  "id": "max-studio/03component-guide/15-3dcity/建筑",
+  "title": "建筑",
+  "description": "建筑",
+  "source": "@site/docs\\max-studio\\03component-guide\\15-3dcity\\建筑.md",
+  "sourceDirName": "max-studio/03component-guide/15-3dcity",
+  "slug": "/max-studio/03component-guide/15-3dcity/建筑",
+  "permalink": "/docs/max-studio/03component-guide/15-3dcity/建筑",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4,
+    "title": "建筑"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "地形",
+    "permalink": "/docs/max-studio/03component-guide/15-3dcity/地形"
+  },
+  "next": {
+    "title": "路径动画",
+    "permalink": "/docs/max-studio/03component-guide/15-3dcity/路径动画"
+  }
+}

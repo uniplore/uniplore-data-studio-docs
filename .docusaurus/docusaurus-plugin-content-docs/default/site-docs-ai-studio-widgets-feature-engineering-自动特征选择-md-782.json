@@ -1,0 +1,25 @@
+{
+  "unversionedId": "ai-studio/widgets/feature-engineering/自动特征选择",
+  "id": "ai-studio/widgets/feature-engineering/自动特征选择",
+  "title": "自动特征选择",
+  "description": "组件介绍",
+  "source": "@site/docs\\ai-studio\\widgets\\feature-engineering\\自动特征选择.md",
+  "sourceDirName": "ai-studio/widgets/feature-engineering",
+  "slug": "/ai-studio/widgets/feature-engineering/自动特征选择",
+  "permalink": "/docs/ai-studio/widgets/feature-engineering/自动特征选择",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "属性选择",
+    "permalink": "/docs/ai-studio/widgets/feature-engineering/属性选择"
+  },
+  "next": {
+    "title": "属性排名",
+    "permalink": "/docs/ai-studio/widgets/feature-engineering/属性排名"
+  }
+}

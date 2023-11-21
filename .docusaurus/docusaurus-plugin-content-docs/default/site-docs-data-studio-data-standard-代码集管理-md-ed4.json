@@ -1,0 +1,26 @@
+{
+  "unversionedId": "data-studio/data-standard/代码集管理",
+  "id": "data-studio/data-standard/代码集管理",
+  "title": "代码集管理",
+  "description": "概述",
+  "source": "@site/docs\\data-studio\\data-standard\\代码集管理.md",
+  "sourceDirName": "data-studio/data-standard",
+  "slug": "/data-studio/data-standard/代码集管理",
+  "permalink": "/docs/data-studio/data-standard/代码集管理",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "title": "代码集管理",
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "标准制定",
+    "permalink": "/docs/data-studio/data-standard/标准制定"
+  },
+  "next": {
+    "title": "行业模板",
+    "permalink": "/docs/data-studio/data-standard/行业模板"
+  }
+}

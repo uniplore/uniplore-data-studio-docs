@@ -1,0 +1,25 @@
+{
+  "unversionedId": "ai-studio/widgets/preprocess/条件筛选",
+  "id": "ai-studio/widgets/preprocess/条件筛选",
+  "title": "条件筛选",
+  "description": "组件介绍",
+  "source": "@site/docs\\ai-studio\\widgets\\preprocess\\条件筛选.md",
+  "sourceDirName": "ai-studio/widgets/preprocess",
+  "slug": "/ai-studio/widgets/preprocess/条件筛选",
+  "permalink": "/docs/ai-studio/widgets/preprocess/条件筛选",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "sidebar_position": 0
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "保存距离矩阵",
+    "permalink": "/docs/ai-studio/widgets/io/保存距离矩阵"
+  },
+  "next": {
+    "title": "数据抽样",
+    "permalink": "/docs/ai-studio/widgets/preprocess/数据抽样"
+  }
+}

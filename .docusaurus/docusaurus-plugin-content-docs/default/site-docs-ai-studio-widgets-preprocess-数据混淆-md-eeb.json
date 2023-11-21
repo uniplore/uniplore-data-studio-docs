@@ -1,0 +1,25 @@
+{
+  "unversionedId": "ai-studio/widgets/preprocess/数据混淆",
+  "id": "ai-studio/widgets/preprocess/数据混淆",
+  "title": "数据混淆",
+  "description": "组件介绍",
+  "source": "@site/docs\\ai-studio\\widgets\\preprocess\\数据混淆.md",
+  "sourceDirName": "ai-studio/widgets/preprocess",
+  "slug": "/ai-studio/widgets/preprocess/数据混淆",
+  "permalink": "/docs/ai-studio/widgets/preprocess/数据混淆",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "转置",
+    "permalink": "/docs/ai-studio/widgets/preprocess/转置"
+  },
+  "next": {
+    "title": "缺失值处理",
+    "permalink": "/docs/ai-studio/widgets/preprocess/缺失值处理"
+  }
+}

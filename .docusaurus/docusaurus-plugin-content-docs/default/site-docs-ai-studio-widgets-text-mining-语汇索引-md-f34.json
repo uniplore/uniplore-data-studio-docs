@@ -1,0 +1,25 @@
+{
+  "unversionedId": "ai-studio/widgets/text-mining/语汇索引",
+  "id": "ai-studio/widgets/text-mining/语汇索引",
+  "title": "语汇索引",
+  "description": "组件介绍",
+  "source": "@site/docs\\ai-studio\\widgets\\text-mining\\语汇索引.md",
+  "sourceDirName": "ai-studio/widgets/text-mining",
+  "slug": "/ai-studio/widgets/text-mining/语汇索引",
+  "permalink": "/docs/ai-studio/widgets/text-mining/语汇索引",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "词云",
+    "permalink": "/docs/ai-studio/widgets/text-mining/词云"
+  },
+  "next": {
+    "title": "文本增强",
+    "permalink": "/docs/ai-studio/widgets/text-mining/文本增强"
+  }
+}

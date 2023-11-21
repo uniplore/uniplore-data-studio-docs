@@ -1,0 +1,26 @@
+{
+  "unversionedId": "max-studio/03component-guide/15-3dcity/热力图",
+  "id": "max-studio/03component-guide/15-3dcity/热力图",
+  "title": "热力图",
+  "description": "热力图，是一种通过对色块着色来显示数据的统计图表。而热力图子组件支持在三维城市的地表绘制热力图。",
+  "source": "@site/docs\\max-studio\\03component-guide\\15-3dcity\\热力图.md",
+  "sourceDirName": "max-studio/03component-guide/15-3dcity",
+  "slug": "/max-studio/03component-guide/15-3dcity/热力图",
+  "permalink": "/docs/max-studio/03component-guide/15-3dcity/热力图",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7,
+    "title": "热力图"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "模型",
+    "permalink": "/docs/max-studio/03component-guide/15-3dcity/模型"
+  },
+  "next": {
+    "title": "扫描线",
+    "permalink": "/docs/max-studio/03component-guide/15-3dcity/扫描线"
+  }
+}
