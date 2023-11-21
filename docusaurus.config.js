@@ -9,18 +9,18 @@ const config = {
   title: 'Uniplore Data Studio Documentation',
   tagline: '',
   // github部署
-  // url: 'https://uniplore.github.io', // 部署版本需要调整此处的域名
-  // baseUrl: '/uniplore-docs-website/',
+  url: 'https://uniplore.github.io', // 部署版本需要调整此处的域名
+  baseUrl: '/uniplore-data-studio-docs/',
   
   // 腾讯云部署
-  url: 'https://doc.uniplore.cn', // 部署版本需要调整此处的域名
-  baseUrl: '/',
+  // url: 'https://doc.uniplore.cn', // 部署版本需要调整此处的域名
+  // baseUrl: '/',
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'uniplore', // Usually your GitHub org/user name.
-  projectName: 'uniplore-data-studio-dev-docs', // Usually your repo name.
+  projectName: 'uniplore-data-studio-docs', // Usually your repo name.
   deploymentBranch: 'main', // deploy branch name
   //staticDirectories: ['static'],
 
