@@ -10,11 +10,11 @@ const config = {
   tagline: '',
   // github部署
   url: 'https://uniplore.github.io', // 部署版本需要调整此处的域名
-  baseUrl: '/uniplore-data-studio-docs/',
+  // baseUrl: '/uniplore-data-studio-docs/',
   
   // 腾讯云部署
   // url: 'https://doc.uniplore.cn', // 部署版本需要调整此处的域名
-  // baseUrl: '/',
+  baseUrl: '/',
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',

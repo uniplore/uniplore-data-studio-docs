@@ -37,19 +37,20 @@ const FeatureList = [
 function Feature({Svg, naviUrl, title, description}) {
   return (
     <div className={clsx('col col--6')}>
-      <a href={naviUrl} className={styles.naviLink}>
-        <div className={`text--center ${styles.shadow}`}>
-          <Svg className={styles.featureSvg} role="img" />
-        </div>
-        <div className={`text--center padding-horiz--md ${styles.textShadow}`}>
-          <h3>
-            {title}
-          </h3>
-          <p style={{textAlign: 'left'}}>
-            {description}
-          </p>
-        </div>
-      </a>
+      <div className={`text--center ${styles.shadow}`}>
+        <Svg className={styles.featureSvg} role="img" />
+      </div>
+      <div className={`text--center padding-horiz--md ${styles.textShadow}`}>
+        <h3>
+          {title}
+        </h3>
+        <p style={{textAlign: 'left'}}>
+          {description}
+        </p>
+        <a href={naviUrl} className='button button--primary'>
+          查看文档→
+        </a>
+      </div>
     </div>
   );
 }
