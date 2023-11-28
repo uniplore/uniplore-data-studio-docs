@@ -16,9 +16,12 @@
   filter: drop-shadow(10px 10px 2px rgba(0, 0, 0, 0.2));
 }
 
-.textShadow {
-	/* filter: drop-shadow(15px 10px 5px rgba(0, 0, 0, 0.2)); */
+[data-theme='dark'] {
+  .shadow {
+    filter: drop-shadow(10px 10px 2px rgba(255, 255, 255, 0.2));
+  }
 }
+
 
 .naviLink:hover {
   color: var(--ifm-font-color-base);
