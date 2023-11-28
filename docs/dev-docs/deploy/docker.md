@@ -67,10 +67,33 @@ docker-compose up -d
 docker-compose stop
 # 删除
 docker-compose rm
-# 
+
 ```
 
 ## 部署文件清单
+
+### 文件目录结构
+
+文件夹位于项目的：deploy/x86_64/docker-compose
+
+```bash
+docker-compose
+├── README.md
+├── docker-compose.yaml
+├── flink
+│   └── flink-conf.yaml
+├── mysql
+│   ├── conf
+│   │   └── my.cnf
+│   └── init
+│       └── init_db.sql
+├── nacos
+│   └── bin
+│       └── docker-startup.sh
+└── nginx
+    └── nginx.conf
+
+```
 
 部署文件清单在本文档中只是做一个提供参考示例方便在当前文档中可直观看到，具体文件内容可能因版本不同而有所不同！
 
