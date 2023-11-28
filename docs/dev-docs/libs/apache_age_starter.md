@@ -9,6 +9,10 @@ sidebar_position: 5
 是否可以是neo4j存储？也是可以的，但是neo4j开源是单机数据库，如果想使用neo4j替换Apache Age，开发者需自行封装调用neo4j逻辑，
 目前uniplore-data-studio暂时不提供切换到neo4j方案，且不支持集群，所以选择使用PostgreSQL + Apache Age存储。
 
+- [Apache-Age官网](https://age.apache.org/#:~:text=Apache%20AGE%C2%AE%20is%20a%20PostgreSQL%20extension%20that%20provides,graph%20query%20modeling%20within%20the%20existing%20relational%20database.)
+- [Apache-Age代码仓库](https://github.com/apache/age)
+- [Apache-Age数据可视化管理工具](https://github.com/apache/age-viewer)
+
 ## 引入依赖
 
 ```kotlin
