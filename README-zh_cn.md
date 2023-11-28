@@ -19,7 +19,7 @@ $ yarn start
 ### 指定语言环境运行方式
 
 ```
-$ yarn start -- --locale zh-cn 
+$ yarn start -- --locale zh-cn
 ```
 
 ### 文档编写说明
