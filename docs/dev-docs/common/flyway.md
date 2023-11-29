@@ -38,7 +38,7 @@ CREATE TABLE IF NOT EXISTS sys_user
 
 ## SQL编写说明
 
-#### 新建表SQL
+### 新建表SQL
 
 规范示例如下:
 ```sql
@@ -60,7 +60,7 @@ CREATE TABLE IF NOT EXISTS sys_user
   COLLATE = utf8mb4_general_ci COMMENT '用户表';
 ```
 
-#### 新增字段名称
+### 新增字段名称
 
 > 一定要注意新增字段所在位置，也就是结束语句必须注意加`AFTER [已存在字段名称]`，除非是在最后一列加可以忽略不写，但是建议还是写上，因为不在after作为字段位置依据，那么SQL在执行时字段位置会默认在最后一列。
 
@@ -68,14 +68,14 @@ CREATE TABLE IF NOT EXISTS sys_user
 ALTER TABLE sys_user ADD COLUMN remark VARCHAR(256) NOT NULL DEFAULT '' COMMENT '备注信息' AFTER password;
 ```
 
-#### 修改已存在字段非字段名称信息
+### 修改已存在字段非字段名称信息
 
 ```sql
 ALTER TABLE sys_user MODIFY COLUMN remark VARCHAR(128) NOT NULL DEFAULT '' COMMENT '备注信息';
 ```
 
 
-#### 修改已存在字段名称
+### 修改已存在字段名称
 
 > 如将`remark`重命名为`remark_user`。
 
@@ -84,7 +84,7 @@ ALTER TABLE sys_user MODIFY COLUMN remark VARCHAR(128) NOT NULL DEFAULT '' COMME
 ALTER TABLE sys_user CHANGE COLUMN remark remark_user VARCHAR(128) NOT NULL DEFAULT '' COMMENT '备注信息';
 ```
 
-#### 新增(删除)唯一索引
+### 新增(删除)唯一索引
 
 新增
 ```sql
@@ -99,7 +99,7 @@ ALTER TABLE `table_name` DROP INDEX index_name;
 ```
 
 
-#### 新增(删除)普通索引
+### 新增(删除)普通索引
 
 新增
 
@@ -114,19 +114,19 @@ ALTER TABLE `sys_user` ADD INDEX idx_user_name (`user_name`);
 ALTER TABLE `table_name` DROP INDEX index_name;
 ```
 
-#### 添加FULLTEXT(全文索引)
+### 添加FULLTEXT(全文索引)
 
 ```sql
 ALTER TABLE `table_name` ADD FULLTEXT (`column`);
 ```
 
-#### 添加多列索引
+### 添加多列索引
 
 ```sql
 ALTER TABLE `table_name` ADD INDEX index_name ( `column1`, `column2`, `column3` );
 ```
 
-#### 重命名表
+### 重命名表
 
 > 在执行重命名表时，旧表`old_table_name`必须存在，而新表`new_table_name`一定不存在。如果新表`new_table_name`确实存在，该语句将失败，此操作也是危险操作，请谨慎操作。
 
@@ -135,7 +135,7 @@ ALTER TABLE `table_name` ADD INDEX index_name ( `column1`, `column2`, `column3` 
 RENAME TABLE sys_user TO new_sys_user;
 ```
 
-#### 删除表
+### 删除表
 
 > 删除表操作请务必谨慎操作。
 
