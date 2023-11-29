@@ -10,29 +10,24 @@ import Translate, {translate} from '@docusaurus/Translate';
 
 function HomepageHeader() {
   const {siteConfig} = useDocusaurusContext();
+  const Svg = require('@site/static/img/logo.svg').default;
   return (
     // <header className={clsx('hero hero--primary', styles.heroBanner)}>
-    <header className={clsx('hero', styles.heroBanner)} style={{ marginBottom: '50px' }}>
+    // <header className={clsx('hero', styles.heroBanner)} style={{ marginBottom: '50px' }}>
+    <header className={clsx(styles.heroBanner)} style={{ marginBottom: '50px' }}>
       <div className="container">
-        <h1 className={`hero__title`}>
-          <Translate
-            id='homepage.doc.title'>
-              {siteConfig.title}
-            </Translate>
-        </h1>
-        <p className="hero__subtitle">
+        <div className={styles.logoWrapper}>
+          <Svg className={styles.logo} role="img" />
+          <h1 className={`hero__title`}>
+            <Translate
+              id='homepage.doc.title'>
+                {siteConfig.title}
+              </Translate>
+          </h1>
+        </div>
+        <p className={styles.description}>
           {siteConfig.tagline}
         </p>
-        {/* <div className={styles.buttons}>
-          <Link
-            className={`button button--secondary button--lg ${styles.btnColor}`}
-            to="/docs/intro">
-            <Translate
-              id="homepage.visitTutorial.linkLabel">
-              Quick Start Tutorial
-            </Translate>
-          </Link>
-        </div> */}
       </div>
     </header>
   );

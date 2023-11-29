@@ -19,6 +19,8 @@ uniplore-app-system 提供用户体系、角色、权限、菜单、操作日志
 | uniplore_sys_role_permission | 角色权限关联表 | 与菜单为一对多的关系                                                             |
 | uniplore_sys_menu            | 菜单表         | 表设计上包含了菜单和权限，菜单用于系统菜单分配，权限则作用在前端按钮或后端接口上 |
 
+** 注：所有 uniplore\_开头的表都与系统管理有关。 **
+
 ## 工作组管理
 
 工作组管理和分配其实就是对用户进行分组，用户可以分配到多个工作组，而工作组可以包含多个用户。然后不同分组的数据仅对自身分组可见，不同分组之间不可见。
@@ -29,12 +31,13 @@ uniplore-app-system 提供用户体系、角色、权限、菜单、操作日志
 - 用户分组
 - 数据源分组
 
+工作组管理 RestAPI 接口位于**uniplore-app-system**模块中，前端接口定义为：`uniplore-data-studio-ui/src/api/dataStudioSystem`，前端页面位于:`uniplore-data-studio-ui/src/views/dataGroup`。
+
 ## 菜单和权限
 
 菜单管理用于给角色分配菜单，不是给用户分配菜单？是的，本系统基于角色做菜单和权限分配，不基于用户。菜单不是本教程介绍的重点，而权限才是本教程介绍的重点。
 
-
-权限目前的实现机制有，前端基于vue实现指令**v-auth**和方法**hasPermission**两种方式判断用户使用拥有权限，被v-auth指令修饰的组件且用户无权限，则组件不会显示，hasPermssion则是拿来弥补v-auth指令在typescript代码或JavaScript代码中无法使用的场景。
+权限目前的实现机制有，前端基于 vue 实现指令 **v-auth** 和方法 **hasPermission** 两种方式判断用户使用拥有权限，被 v-auth 指令修饰的组件且用户无权限，则组件不会显示，hasPermssion 则是拿来弥补 v-auth 指令在 typescript 代码或 JavaScript 代码中无法使用的场景。
 
 后端则使用注解**@PreAuth**实现用户权限的校验，作用于被注解`@controller`或`@RestController`修饰的类的方法上，示例如下：
 
@@ -93,9 +96,20 @@ public class SysMenuController extends BaseController {
 }
 ```
 
-关于权限校验，前端和后端都需要加上校验，否则即使给角色分配了权限，也不会使生效。前端全局禁用权限认证在uniplore-data-studio-ui/.env文件夹中，配置为：
+关于权限校验，前端和后端都需要加上校验，否则即使给角色分配了权限，也不会使生效。前端全局禁用权限认证在 uniplore-data-studio-ui/.env 文件夹中，配置为：
 
 ```bash
 # disale permission, include hasPermission Func & v-auth directive
 VITE_DATA_STUDIO_DISABLE_PERMISSION = false
 ```
+
+## 涉及相关模块
+
+### 前端
+
+- 请求接口定义：uniplore-data-studio-ui/src/api/system
+- 页面：uniplore-data-studio-ui/src/views/system
+
+### 后端
+
+- uniplore-app-system

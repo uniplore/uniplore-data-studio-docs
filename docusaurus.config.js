@@ -7,11 +7,11 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Uniplore Data Studio Documentation',
-  tagline: '',
+  tagline: 'Uniplore Data Studio 平台是数据资产定义、加工、管理、服务的全流程平台，提供数据查询、数据同步、数据标准、数据建模、数据质量、数据服务、数据资产运营、数据资产中心、数据标签、画像分析等功能，为智能数据应用持续稳定供给全量、标准、干净的数据资源。',
   // github部署
   // url: 'https://uniplore.github.io', // 部署版本需要调整此处的域名
   // baseUrl: '/uniplore-data-studio-docs/',
-  
+
   // 腾讯云部署
   url: 'https://doc.uniplore.cn', // 部署版本需要调整此处的域名
   baseUrl: '/',
@@ -57,8 +57,7 @@ const config = {
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+          editUrl: 'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -77,11 +76,13 @@ const config = {
           alt: 'uniplore Logo',
           src: 'img/logo.svg',
         },
-        items: [
-          {
+        items: [{
             type: 'docsVersionDropdown',
             position: 'right',
-            dropdownItemsAfter: [{to: '/', label: 'All versions'}],
+            dropdownItemsAfter: [{
+              to: '/',
+              label: 'All versions'
+            }],
             dropdownActiveClassDisabled: false,
           },
           {
@@ -111,8 +112,7 @@ const config = {
           // },
           {
             title: 'Community',
-            items: [
-              {
+            items: [{
                 label: 'Stack Overflow',
                 href: 'https://stackoverflow.com/questions/tagged/docusaurus',
               },
@@ -124,8 +124,7 @@ const config = {
           },
           {
             title: 'More',
-            items: [
-              {
+            items: [{
                 label: 'GitHub',
                 href: 'https://github.com/uniplore/uniplore-data-studio',
               },

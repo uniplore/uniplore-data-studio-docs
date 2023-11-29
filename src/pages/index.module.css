@@ -3,11 +3,39 @@
  * and scoped locally.
  */
 
+body {
+  background-image: url(@site/static/img/main-wrapper-bg.svg) !important;
+}
+
 .heroBanner {
   padding: 4rem 0;
   text-align: center;
   position: relative;
   overflow: hidden;
+}
+
+.logoWrapper {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+.logo {
+  width: 65px;
+  height: 65px;
+}
+
+.container {
+  margin: 0px auto;
+  max-width: var(--ifm-container-width);
+  padding: 0 var(--ifm-spacing-horizontal);
+  width: 100%;
+}
+
+.description {
+  font-size: 16px;
+  margin: 0 200px;
+  text-align: left;
 }
 
 @media screen and (max-width: 996px) {

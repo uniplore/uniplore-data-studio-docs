@@ -17,9 +17,15 @@
   height: 350px;
 }
 
-.itemWrapper:hover {
+/* .itemWrapper:hover {
   box-shadow: 0 2px 4px rgba(0, 0, 0, .12), 0 0 6px rgba(0, 0, 0, .04)
 }
+
+[data-theme='dark'] {
+  .itemWrapper:hover {
+    box-shadow: 0 2px 4px rgba(255, 255, 255, .2), 0 0 6px rgba(255, 255, 255, .04)
+  }
+} */
   
 .featureImg {
   height: 100px;
@@ -32,7 +38,8 @@
 
 [data-theme='dark'] {
   .shadow {
-    filter: drop-shadow(10px 10px 2px rgba(255, 255, 255, 0.2));
+    /* filter: drop-shadow(10px 10px 2px rgba(255, 255, 255, 0.2)); */
+    filter: unset;
   }
 }
 
