@@ -13,7 +13,7 @@ const config = {
   // baseUrl: '/uniplore-data-studio-docs/',
 
   // 腾讯云部署
-  url: 'https://doc.uniplore.cn', // 部署版本需要调整此处的域名
+  url: 'https://doc.datastudio.uniplore.cn', // 部署版本需要调整此处的域名
   baseUrl: '/',
 
   onBrokenLinks: 'throw',
