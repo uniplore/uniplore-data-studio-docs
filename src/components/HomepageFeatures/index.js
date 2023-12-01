@@ -6,7 +6,7 @@ import Translate, {translate} from '@docusaurus/Translate';
 const FeatureList = [
   {
     title: '开发文档',
-    naviUrl: "/docs/dev-docs/quick_start",
+    naviUrl: "/docs/dev-docs/quick-start",
     Svg: require('@site/static/img/development.svg').default,
     target: '_self',
     description: (
@@ -16,7 +16,7 @@ const FeatureList = [
     ),
   },
   {
-    title: '使用教程',
+    title: '用户手册',
     naviUrl: '/docs/tutorial-docs/product-intro/intro',
     Svg: require('@site/static/img/tutorial.svg').default,
     target: '_self',
