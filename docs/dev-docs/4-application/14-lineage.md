@@ -13,7 +13,7 @@ sidebar_position: 14
 
 uniplore-data-assets提供统一的数据血缘推送入口为cn.uniplore.data.assets.controller.DaMetadataReceiveController下的，receiveMetadata方法。
 
-如何存储数据到PostgreSQL，请参考[PostgreSQL存储数据血缘](/docs/dev-docs/libs/apache_age_starter)。
+如何存储数据到PostgreSQL，请参考[PostgreSQL存储数据血缘](/docs/dev-docs/libs/apache-age-starter)。
 
 ## 推送数据血缘
 

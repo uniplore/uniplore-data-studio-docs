@@ -11,7 +11,7 @@ sidebar_position: 4
 
 实现操作步骤如下：
 
-1. 拓展数据源支持：此步骤需到数据同步模块创建数据源，创建数据源也需要做适配工作，可参考[拓展数据源支持](/docs/dev-docs/application/extend_datasource)章节；
+1. 拓展数据源支持：此步骤需到数据同步模块创建数据源，创建数据源也需要做适配工作，可参考[拓展数据源支持](/docs/dev-docs/application/extend-datasource)章节；
 2. 新增数据源：此步骤需到：数据同步 -> 同步数据源 -> 创建数据源；
 
 ## 数据服务开发
