@@ -9,12 +9,12 @@ const config = {
   title: 'Uniplore Data Studio Documentation',
   tagline: 'Uniplore Data Studio 平台是数据资产定义、加工、管理、服务的全流程平台，提供数据查询、数据同步、数据标准、数据建模、数据质量、数据服务、数据资产运营、数据资产中心、数据标签、画像分析等功能，为智能数据应用持续稳定供给全量、标准、干净的数据资源。',
   // github部署
-  // url: 'https://uniplore.github.io', // 部署版本需要调整此处的域名
-  // baseUrl: '/uniplore-data-studio-docs/',
+  url: 'https://uniplore.github.io', // 部署版本需要调整此处的域名
+  baseUrl: '/uniplore-data-studio-docs/',
 
   // 腾讯云部署
-  url: 'https://doc.datastudio.uniplore.cn', // 部署版本需要调整此处的域名
-  baseUrl: '/',
+  // url: 'https://doc.datastudio.uniplore.cn', // 部署版本需要调整此处的域名
+  // baseUrl: '/',
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
