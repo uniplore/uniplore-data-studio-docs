@@ -8,7 +8,7 @@ on:
       
 # jobs
 jobs:
-  BildAndDploy:
+  build-and-deploy:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
@@ -28,6 +28,6 @@ jobs:
         run: tcb login --apiKeyId ${{secrets.APP_ID}} --apiKey ${{secrets.SECRET_ID}}
  
       - name: Deploy
-        run: cd build && tcb hosting deploy -e 	uniplore-data-studio-2bff1f0cfad
+        run: cd build && tcb hosting deploy -e uniplore-ds-docs-9fogovk55a3aa71
       
     
