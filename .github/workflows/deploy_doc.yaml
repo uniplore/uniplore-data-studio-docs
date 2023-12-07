@@ -25,8 +25,7 @@ jobs:
         run: yarn global add @cloudbase/cli
 
       - name: Login To CloudBase
-        # run: tcb login --apiKeyId ${{secrets.APP_ID}} --apiKey ${{secrets.SECRET_ID}}
-        run: tcb login --apiKeyId 1305136946 --apiKey AKIDaDkBUkv9FjBZpyzscEj7c0IRN5bw30jE
+        run: tcb login --apiKeyId ${{secrets.SECRET_ID}} --apiKey ${{secrets.SECRET_KEY}}
  
       - name: Deploy
         run: cd build && tcb hosting deploy -e uniplore-ds-docs-9fogovk55a3aa71
