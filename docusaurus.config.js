@@ -19,7 +19,7 @@ const config = {
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'uniplore', // Usually your GitHub org/user name.
+  organizationName: 'jy_RM_c', // Usually your GitHub org/user name.
   projectName: 'uniplore-data-studio-docs', // Usually your repo name.
   deploymentBranch: 'main', // deploy branch name
   //staticDirectories: ['static'],
